@@ -13,9 +13,9 @@
 I am a graduate student in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research interests include geographic information science (GIS), remote sensing, machine, and deep learning explicitly applying analysis, mapping, and modeling to geospatial data. Open to collaboration opportunities for work and research in these fields.
 
 ### Featured Projects
-- [Integrated Land Cover, Temperature, and Precipitation Information System] (https://github.com/thapawan/IntegratedInformationSystem)
-- [Image Segmentation] (https://github.com/thapawan/ImageSegmentation)
-- 
+- [Integrated Land Cover, Temperature, and Precipitation Information System](https://github.com/thapawan/IntegratedInformationSystem)
+- [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
+- [ArcGIS Python Script tool for Clipping Large Geodatabases](https://github.com/pratik-tan10/Python/tree/main/ClipTool)
 
 ### Research Papers
  
