@@ -13,8 +13,9 @@
 I am a graduate student in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research interests include geographic information science (GIS), remote sensing, machine, and deep learning explicitly applying analysis, mapping, and modeling to geospatial data. Open to collaboration opportunities for work and research in these fields.
 
 ### Featured Projects
-- Integrated Land Cover, Temperature, and Precipitation Information System (https://github.com/thapawan/IntegratedInformationSystem)
-- Image Segmentation (https://github.com/thapawan/ImageSegmentation)
+- [Integrated Land Cover, Temperature, and Precipitation Information System] (https://github.com/thapawan/IntegratedInformationSystem)
+- [Image Segmentation] (https://github.com/thapawan/ImageSegmentation)
+- 
 
 ### Research Papers
  
@@ -43,8 +44,9 @@ I am a graduate student in the [Department of Geography](https://geography.ua.ed
 •	Thapa, P. (2020). Spatial estimation of soil erosion using RUSLE modeling: a case study of Dolakha district, Nepal. Environmental Systems Research, 9(1), 1-10 https://doi.org/10.1186/s40068-020-00177-2.
 
 •	Thapa P, (2020) A Prototype for Interactive Web Map December, Geospace VII. 
-•
+
 •	Thapa, P., & Upadhyaya, P. S. (2019). Vulnerability assessment of indigenous communities to climate change in Nepal. Journal of Land Management and Geomatics Education, 1(1), 41-46.
+
 •	Thapa, P., & Dhulikhel, N. (2019). Observed and perceived climate change analysis in the Terai Region, Nepal. GSJ, 7(12), 35-43.
 
 
