@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**thapawan/thapawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pawan Thapa
 
-Here are some ideas to get you started:
+[![GitHub Badge](https://img.shields.io/github/followers/thapawan?style=social)](https://github.com/thapawan?tab=followers)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@learnsomethingtoday)
+[![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://thapawan.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pawan-thapa-916aa360)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thapawan.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate student in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research interests include geographic information science (GIS), remote sensing, machine, and deep learning explicitly applying computer vision to geospatial data. I always seek collaboration opportunities for work and research in these fields.
+
+---
+
+### Featured Projects
+- Integrated
+
+### Research Papers
+
+
+
+## Thank you for visiting my profile.
