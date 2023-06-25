@@ -15,7 +15,8 @@ I am a graduate student in the [Department of Geography](https://geography.ua.ed
 ### Featured Projects
 - [Integrated Land Cover, Temperature, and Precipitation Information System](https://github.com/thapawan/IntegratedInformationSystem)
 - [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
-- [ArcGIS Python Script tool for Clipping Large Geodatabases](https://github.com/pratik-tan10/Python/tree/main/ClipTool)
+- [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
+- [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
 
 ### Research Papers
  
