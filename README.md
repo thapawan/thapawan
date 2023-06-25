@@ -2,10 +2,11 @@
 ### Pawan Thapa
 
 [![GitHub Badge](https://img.shields.io/github/followers/thapawan?style=social)](https://github.com/thapawan?tab=followers)
+[![GoogleScholar Badge](https://img.shields.io/badge/Google-Scholar-black)](https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@UC_vjUMpU3Ca5XcbBVanBCnA)
 [![Website Badge](https://img.shields.io/badge/Personal-Website-green)](https://thapawan.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/pawan-thapa-916aa360)
-[![GoogleScholar Badge](https://img.shields.io/badge/Google-Scholar-black)](https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 ![GoogleScholar Badge](https://visitor-badge.laobi.icu/badge?page_id=thapawan.github.io)
 
 
