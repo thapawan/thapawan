@@ -10,7 +10,7 @@
 ![GoogleScholar Badge](https://visitor-badge.laobi.icu/badge?page_id=thapawan.github.io)
 
 
-I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research interests include geographic information science (GIS), remote sensing, machine, and deep learning explicitly applying analysis, mapping, and modeling to geospatial data. Open to collaboration opportunities for work and research in these fields.
+I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of river for width, centerline, direction, and discharge to estimate flood inundation. 
 
 ### Featured Projects
 - [Integrated Land Cover, Temperature, and Precipitation Information System](https://github.com/thapawan/IntegratedInformationSystem)
