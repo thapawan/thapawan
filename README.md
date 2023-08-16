@@ -16,7 +16,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
 - [Deriving Morphological Information](https://github.com/thapawan/Deriving-Morphological-Information)
 - [Flood Inundations](https://github.com/thapawan/Flood-Inundations)
-- [Integrated Land Cover Temperature and Precipitation Information System] (https://github.com/thapawan/IntegratedInformationSystem)
+- [Integrated Information System](https://github.com/thapawan/IntegratedInformationSystem)
 - [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
 - [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
 
