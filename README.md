@@ -13,11 +13,13 @@
 I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood inundation. 
 
 ### Featured Projects
-- [Integrated Land Cover, Temperature, and Precipitation Information System](https://github.com/thapawan/IntegratedInformationSystem)
-- [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
-- [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
 - [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
 - [Deriving Morphological Information](https://github.com/thapawan/Deriving-Morphological-Information)
+- [Flood Inundations](https://github.com/thapawan/Flood-Inundations)
+- [Integrated Land Cover Temperature and Precipitation Information System] (https://github.com/thapawan/IntegratedInformationSystem)
+- [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
+- [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
+
 
 ### Research Papers
  
