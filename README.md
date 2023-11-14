@@ -14,12 +14,13 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 ### Featured Projects
 - [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
+- [CrossSections Extraction Visualization](https://github.com/thapawan/CrossSectionsExtractionVisualization)
 - [Deriving Morphological Information](https://github.com/thapawan/Deriving-Morphological-Information)
 - [Flood Inundations](https://github.com/thapawan/Flood-Inundations)
 - [Integrated Information System](https://github.com/thapawan/IntegratedInformationSystem)
 - [Image Segmentation](https://github.com/thapawan/ImageSegmentation)
 - [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
-
+  
 
 ### Research Papers
  
