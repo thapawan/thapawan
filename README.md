@@ -23,12 +23,18 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [SWAT Modeling](https://github.com/thapawan/SatelliteOverpassPredict)
 
 ### Programming Language Proficiency
-- [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
-- 
+- [Python](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+  
 ### Softwares
-
+- [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+  
 ### Instruments 
+- [Unmmaned Aerial Vehicles](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
 
+### Licenses
+- [Unmmaned Aerial Vehicle](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [Vessel](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [Driving](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
 
 ### Poster Presentations
 
