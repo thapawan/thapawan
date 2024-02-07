@@ -24,9 +24,9 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 ### Programming Language Proficiency
 
-### Software
+### Softwares
 
-### Featured Projects  
+### Instruments 
 
 
 ### Poster Presentations
