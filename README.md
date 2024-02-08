@@ -23,8 +23,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [SWAT Modeling](https://github.com/thapawan/SWATModeling)
 
 ### Programming Language Proficiency
-- [Python](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources](https://docs.python.org/3/library/idle.html)
-- Javascript ()
+- [Python](https://docs.python.org/3/library/idle.html)
+- Javascript
   
 ### Softwares
 - [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
