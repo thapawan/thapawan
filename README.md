@@ -25,6 +25,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [R]()
   
 ### Softwares
 - [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
