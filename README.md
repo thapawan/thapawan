@@ -41,8 +41,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [DGPS]()
 - [GPS]()
 - [Total Station]()
-- [YSI]
-- [ASD]
+- [YSI]()
+- [ASD]()
 - [RS5 Pro Max]()
 - [HYCAT]()
   
@@ -51,10 +51,6 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [Unmmaned Aerial Vehicle](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
 - [Vessel](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
 - [Driving](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
-
-### Poster Presentations
-
-### Oral Presentations
 
 ### Research Papers
  
