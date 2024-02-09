@@ -24,13 +24,28 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
-- Javascript
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
   
 ### Softwares
 - [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [RSQ]()
+- [RivSurveyor]()
+- [HYPACK]()
+- [EXO]()
+- [SpectralView]()
+- [CloudCompare]()
   
 ### Instruments 
-- [Unmmaned Aerial Vehicles](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [Unmmaned Aerial Vehicles]()
+- [Vessel]()
+- [DGPS]()
+- [GPS]()
+- [Total Station]()
+- [YSI]
+- [ASD]
+- [RS5 Pro Max]()
+- [HYCAT]()
+  
 
 ### Licenses
 - [Unmmaned Aerial Vehicle](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
