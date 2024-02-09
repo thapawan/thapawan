@@ -28,12 +28,19 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
   
 ### Softwares
 - [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [QGIS]()
 - [RSQ]()
 - [RivSurveyor]()
 - [HYPACK]()
 - [EXO]()
+- [ViewSpec Pro]()
 - [SpectralView]()
 - [CloudCompare]()
+- [PosPac]()
+- [Veloview]()
+- [HPI Trajectory Plotter]()
+- [HyperSpecIII]()
+- [UgCS Missions]()
   
 ### Instruments 
 - [Unmmaned Aerial Vehicles]()
@@ -45,6 +52,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [ASD]()
 - [RS5 Pro Max]()
 - [HYCAT]()
+- [Hand-held Spectroradiometer]()
   
 
 ### Licenses
