@@ -25,10 +25,10 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-- [R]()
+- [R](https://www.youtube.com/watch?v=5R4ZZ7VS3Y4&list=PLlli8a9TMODya3TySdquBTJUt_v50MGpM)
   
 ### Softwares
-- [ArcGIS](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [ArcGIS](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
 - [QGIS]()
 - [RSQ]()
 - [RivSurveyor]()
@@ -57,8 +57,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
   
 
 ### Licenses
-- [Unmmaned Aerial Vehicle](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
-- [Vessel](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [Unmmaned Aerial Vehicle](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot?fbclid=IwAR0-STBnQ0JtqnnGlw9yiq2x9YSVCaM-BIyqjOnChk40aIndjBGCLvQEkKg#ech)
+- [Vessel]((https://www.boat-ed.com/alabama/)
 - [Driving](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
 
 ### Research Papers
