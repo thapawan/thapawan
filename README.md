@@ -29,19 +29,21 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
   
 ### Softwares
 - [ArcGIS](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
-- [QGIS]()
-- [RSQ]()
-- [RivSurveyor]()
-- [HYPACK]()
-- [EXO]()
-- [ViewSpec Pro]()
-- [SpectralView]()
-- [CloudCompare]()
-- [PosPac]()
-- [Veloview]()
-- [HPI Trajectory Plotter]()
-- [HyperSpecIII]()
-- [UgCS Missions]()
+- [ERDAS IMAGINE]()
+- [QGIS](https://qgis.org/download/)
+- [RSQ](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/acoustic-doppler-profilers-adpadcp/rs5/)
+- [River Surveyor](https://hydroacoustics.usgs.gov/movingboat/rslive.shtml)
+- [HYPACK](https://www.xylem.com/en-us/brands/hypack/)
+- [EXO Sonde](https://www.ysi.com/exo)
+- [ViewSpec Pro](http://geoinfo.amu.edu.pl/geoinf/m/spektr/viewspecpro.pdf)
+- [Hyperspec III and SpectralView](https://headwallphotonics.com/products/software/hyperspec-iii-and-spectralview/)
+- [CloudCompare](https://www.danielgm.net/cc/)
+- [POSPac UAV](https://www.applanix.com/products/pospac-uav.htm)
+- [Velodyne LIDAR Veloview](https://www.paraview.org/veloview/)
+- [HPI Trajectory Plotter](https://www.youtube.com/watch?v=oEms86k9_So)
+- [ImageJ](https://imagej.net/ij/download.html)
+- [UgCS Missions](https://www.sphengineering.com/flight-planning/ugcs)
+- [GPS Pathfinder Office](https://frontierprecision.com/gps-pathfinder-office/)
   
 ### Instruments 
 - [Unmmaned Aerial Vehicles]()
@@ -59,10 +61,14 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 ### Licenses
 - [Unmmaned Aerial Vehicle](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot?fbclid=IwAR0-STBnQ0JtqnnGlw9yiq2x9YSVCaM-BIyqjOnChk40aIndjBGCLvQEkKg#ech)
 - [Vessel](https://www.boat-ed.com/alabama/)
-- [Driving](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)
+- [Driving](https://www.alea.gov/dps/driver-license/driver-license-information)
 
 ### Research Papers
  
+•	Thapa, P (Under Review) Detection of River Centerlines Extraction and Width Estimation. Available at SSRN: https://ssrn.com/abstract=4905753 or http://dx.doi.org/10.2139/ssrn.4905753
+
+•	Thapa, P. (Under Review) Feasibility Study of Using Uncrewed Aerial Vehicles to Deliver Covid-19 Vaccines in Geographically Inaccessible Areas of Nepal. Available at SSRN: https://ssrn.com/abstract=4871922 or http://dx.doi.org/10.2139/ssrn.4871922
+
 •	Thapa, P. (2022). Time Series Analysis and Forecast of COVID-19 Pandemic. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_6
 
 •	Thapa, P. (2022). Soil Erosion Estimation Using Revised Universal Soil Loss Equation (RUSLE) Model and GIS. In GIScience for the Sustainable Management of Water Resources (pp. 253-266). Apple Academic Press. https://doi.org/10.1201/9781003284512
@@ -81,7 +87,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 •	Thapa, P. (2021). Still a Vision Cadastre 2014 for Nepal. Türkiye Arazi Yönetimi Dergisi , 3 (2) , 53-57 . https://doi.org/10.51765/tayod.899431.
 
-•	Thapa, P., & Thapa, N. (2021). Land Parcel Information System Using Free and Open-Source Platform. Proceedings of FIG eWorking Week, 2021. TS07.2_thapa_10910.pdf (fig.net)
+•	Thapa, P., & Thapa, N. (2021). Land Parcel Information System Using Free and Open-Source Platform. Proceedings of FIG eWorking Week, 2021. 
 
 •	Thapa P., Gautam A. (2021). Potential of Free and Open-Source Software for Education in Developing Countries, Proceedings of FOSS4G Asia 2021: In The Era of Artificial Intelligence and IoT for Land Management and Sustainable Development.
 
