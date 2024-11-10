@@ -64,8 +64,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 ### Membership
 - [IEEE Membership](https://drive.google.com/file/d/1OUWu4sbZO7DcAEe1KNVPpnvV5IUXjI0H/view?usp=sharing)
-- [AGU Membership](https://www.boat-ed.com/alabama/)
-- [AAG Membership](https://www.alea.gov/dps/driver-license/driver-license-information)
+- [AGU Membership](https://www.agu.org/)
+- [AAG Membership](https://www.aag.org/)
   
 ### Research Papers
  
