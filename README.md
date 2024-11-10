@@ -62,6 +62,11 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [Vessel](https://www.boat-ed.com/alabama/)
 - [Driving](https://www.alea.gov/dps/driver-license/driver-license-information)
 
+### Membership
+- [IEEE Membership](https://drive.google.com/file/d/1OUWu4sbZO7DcAEe1KNVPpnvV5IUXjI0H/view?usp=sharing)
+- [AGU Membership](https://www.boat-ed.com/alabama/)
+- [AAG Membership](https://www.alea.gov/dps/driver-license/driver-license-information)
+  
 ### Research Papers
  
 •	Thapa, P (Under Review) Detection of River Centerlines Extraction and Width Estimation. Available at SSRN: https://ssrn.com/abstract=4905753 or http://dx.doi.org/10.2139/ssrn.4905753
