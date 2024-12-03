@@ -71,9 +71,15 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
   
 ### Research Papers
  
+•	Thapa, P (Under Review) Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal, In Review Next Research
+
 •	Thapa, P (Under Review) Detection of River Centerlines Extraction and Width Estimation. Available at SSRN: https://ssrn.com/abstract=4905753 or http://dx.doi.org/10.2139/ssrn.4905753
 
 •	Thapa, P. (Under Review) Feasibility Study of Using Uncrewed Aerial Vehicles to Deliver Covid-19 Vaccines in Geographically Inaccessible Areas of Nepal. Available at SSRN: https://ssrn.com/abstract=4871922 or http://dx.doi.org/10.2139/ssrn.4871922
+
+•	Thapa, P. (2024) Assessing Wildfire Severity and Identifying Hotspots Using Computational, Accepted Chapter for “Intelligence and Image Processing Computational Intelligence in Surveillance Systems Using Image Processing” to be published by Elsevier.
+
+•	1)	Aryal, R., Thapa, P., & Karki, M. (2023) SMOKE SCENE DETECTION FROM SATELLITE IMAGERY USING DEEP LEARNING.
 
 •	Thapa, P. (2022). Time Series Analysis and Forecast of COVID-19 Pandemic. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_6
 
@@ -104,6 +110,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 •	Thapa, P., & Upadhyaya, P. S. (2019). Vulnerability assessment of indigenous communities to climate change in Nepal. Journal of Land Management and Geomatics Education, 1(1), 41-46.
 
 •	Thapa, P., & Dhulikhel, N. (2019). Observed and perceived climate change analysis in the Terai Region, Nepal. GSJ, 7(12), 35-43.
+
+
 
 
 
