@@ -21,8 +21,8 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
 - [SWAT Modeling](https://github.com/thapawan/SWATModeling)
 
-### Conferencess
- - [Conference] (https://github.com/thapawan/thapawan/blob/main/Conferences)
+### Conferences
+ - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
 
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
