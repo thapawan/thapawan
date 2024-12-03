@@ -24,6 +24,9 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
 
+### Awards
+ - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
+
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
