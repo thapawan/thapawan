@@ -9,7 +9,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 [![ScientificIndex Badge](https://img.shields.io/badge/AD-ScientificIndex-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 
-I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning explicitly applying analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, Erosion and Ecosystem. 
+I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, erosion and ecosystem. 
 
 ### Featured Projects
 - [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
@@ -24,6 +24,9 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
 
+### Courses
+ - [HYDROLEARN](https://apps.edx.hydrolearn.org/learning/course/course-v1:JacksonStateUniversity_UniversityofAlabama+CE101+2024/home)
+   
 ### Awards
  - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
 
@@ -85,7 +88,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 
 •	Thapa, P. (2024) Assessing Wildfire Severity and Identifying Hotspots Using Computational, Accepted Chapter for “Intelligence and Image Processing Computational Intelligence in Surveillance Systems Using Image Processing” to be published by Elsevier.
 
-•	1)	Aryal, R., Thapa, P., & Karki, M. (2023) SMOKE SCENE DETECTION FROM SATELLITE IMAGERY USING DEEP LEARNING.
+•	Aryal, R., Thapa, P., & Karki, M. (2023) SMOKE SCENE DETECTION FROM SATELLITE IMAGERY USING DEEP LEARNING.
 
 •	Thapa, P. (2022). Time Series Analysis and Forecast of COVID-19 Pandemic. In: Hassan, S.A., Mohamed, A.W., Alnowibet, K.A. (eds) Decision Sciences for COVID-19. International Series in Operations Research & Management Science, vol 320. Springer, Cham. https://doi.org/10.1007/978-3-030-87019-5_6
 
