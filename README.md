@@ -12,7 +12,9 @@
 I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, erosion and ecosystem. 
 
 ### Featured Projects
-- [Phase Coded Disk Approach](https://github.com/thapawan/PhaseCodedDisk)
+- [Medial Axis Transform Approach](https://github.com/thapawan/Medial-Axis-Transform)
+- [Meander Classification using Machine Learning](https://github.com/thapawan/MeanderClassification)
+- [Deep Learning Meander Classification](https://github.com/thapawan/DeepMeander)
 - [CrossSections Extraction Visualization](https://github.com/thapawan/CrossSectionsExtractionVisualization)
 - [Deriving Morphological Information](https://github.com/thapawan/Deriving-Morphological-Information)
 - [Flood Inundations](https://github.com/thapawan/Flood-Inundations)
