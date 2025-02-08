@@ -77,7 +77,7 @@ I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/
 - [IEEE Membership](https://drive.google.com/file/d/1OUWu4sbZO7DcAEe1KNVPpnvV5IUXjI0H/view?usp=sharing)
 - [AGU Membership](https://www.agu.org/)
 - [AAG Membership](https://www.aag.org/)
-- [ISPRS Membership](https://drive.google.com/file/d/1XxOmF9han1wLqqct-C02fIlQPcb6jqdn/view?usp=sharing)
+- [ISPRS Membership](https://github.com/thapawan/thapawan/blob/main/Membership/ISPRS_Thapa_certificate_2025.pdf)
 - [Mentoring 365](https://mentoring365.chronus.com/members/14944854)
   
 ### Research Papers
