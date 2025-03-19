@@ -9,7 +9,9 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 [![ScientificIndex Badge](https://img.shields.io/badge/AD-ScientificIndex-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 
-I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, erosion and ecosystem. 
+I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, and discharge to estimate flood, erosion and ecosystem.
+
+Previously, I lectured at Kathmandu University. Notably, I was the first person from Nepal to earn a Master of Science in Geoinformatics from Muenster University in 2017.
 
 ### Featured Projects
 - [Medial Axis Transform Approach](https://github.com/thapawan/Medial-Axis-Transform)
