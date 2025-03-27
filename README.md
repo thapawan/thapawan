@@ -25,6 +25,8 @@ Previously, I lectured at Kathmandu University. Notably, I was the first person 
 - [Satellite Overpass Predict](https://github.com/thapawan/SatelliteOverpassPredict)
 - [SWAT Modeling](https://github.com/thapawan/SWATModeling)
 
+### Packages (Python & R)
+
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
 
