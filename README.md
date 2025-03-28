@@ -26,8 +26,8 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [SWAT Modeling](https://github.com/thapawan/SWATModeling)
 
 ### Packages (Python & R)
-- [rasterMedialAxis](https://github.com/thapawan/rasterMedialAxis/tree/main)
-- [raster_medial_axis](https://github.com/thapawan/raster_medial_axis)
+- [MMAT](https://github.com/thapawan/rasterMedialAxis/tree/main)
+- [MMATCWE](https://github.com/thapawan/raster_medial_axis)
 
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
