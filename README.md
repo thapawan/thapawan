@@ -97,7 +97,7 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 ### Publications
  
 1)	Thapa P., Davis L., Amanambu A., Frame J., LaFevor M. (2025) Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery, under review Earth Surface Processes and Landforms.
-2)	Thapa P, Thapa M. (2025) Integrating Geospatial Technologies and Machine Learning for Enhanced Disaster Management in Developing Countries, conference proceedings for Locate 25 The National Geospatial Conference, FIG Working Week in 2025, Online, Brisbane, Australia
+2)	Thapa P, Thapa M. (2025) Integrating Geospatial Technologies and Machine Learning for Enhanced Disaster Management in Developing Countries, conference proceedings for Locate 25 The National Geospatial Conference, FIG Working Week in 2025, Hybrid, Brisbane, Australia
 3)	Thapa, P., & Thapa, M. (2025). Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal. Next Research, 100207. https://doi.org/10.1016/j.nexres.2025.100207
 4)	Thapa, P., Thapa N, Thapa M. (2025) Deep Learning-Enhanced Flood Risk Assessment for Unplanned Settlements in Morang, Nepal, Accepted Chapter for “The Himalaya Dilemma - Navigating Risk, Vulnerability, and Resilience in Geohazard-Prone Regions" (Springer Nature)”.
 5)	Thapa P. (2025) MMATWidth: Detection of River Centerlines Extraction and Width Estimation conference proceedings for IEEE Region 10 Symposium 2025, Christchurch, New Zealand.
