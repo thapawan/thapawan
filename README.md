@@ -38,6 +38,14 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 ### Awards
  - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
 
+### Applications
+- [MATGlobal](https://ee-pawanthapa42.projects.earthengine.app/view/matglobal)
+- [MATCW](https://meanderclassify.users.earthengine.app/view/matcw)
+- [MCM](https://ee-pawanthapa42.projects.earthengine.app/view/mcw)
+- [SlopeCurvature](https://meanderclassify.users.earthengine.app/view/slopecurvature)
+- [Flood Morang](https://pawanthapa42.users.earthengine.app/view/flood-morang)
+  
+
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
