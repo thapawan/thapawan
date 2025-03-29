@@ -1,4 +1,3 @@
-
 ### Pawan Thapa
 
 [![GitHub Badge](https://img.shields.io/github/followers/thapawan?style=social)](https://github.com/thapawan?tab=followers)
@@ -9,7 +8,7 @@
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-green)](https://www.researchgate.net/profile/Pawan-Thapa-2)
 [![ScientificIndex Badge](https://img.shields.io/badge/AD-ScientificIndex-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 
-I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, meander classfiying and detecting to estimate flood, floodplain, erosion and riparian vegetation.
+I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), Geospatial, Geomatics, Geoinformatics, remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, meander classification and detecting to estimate flood risk, floodplain, erosion and riparian vegetation.
 
 Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first person from Nepal to earned a Master of Science in Geoinformatics from Muenster University, Germany in 2017.
 
