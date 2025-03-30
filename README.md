@@ -1,5 +1,4 @@
 ### Pawan Thapa
-
 [![GitHub Badge](https://img.shields.io/github/followers/thapawan?style=social)](https://github.com/thapawan?tab=followers)
 [![GoogleScholar Badge](https://img.shields.io/badge/Google-Scholar-black)](https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UC_vjUMpU3Ca5XcbBVanBCnA)
@@ -9,7 +8,6 @@
 [![ScientificIndex Badge](https://img.shields.io/badge/AD-ScientificIndex-blue)](https://www.adscientificindex.com/scientist/pawan-thapa/4485523)
 
 I am a [graduate student](https://geography.ua.edu/graduate-student/thapa-pawan/) in the [Department of Geography and the Environment](https://geography.ua.edu/) at the [The University of Alabama, Tuscaloosa](https://www.ua.edu/). My research focuses on geographic information science (GIS), Geospatial, Geomatics, Geoinformatics, remote sensing, machine learning, and deep learning analysis, mapping, and modeling of rivers for width, centerline, direction, meander classification and detecting to estimate flood risk, floodplain, erosion and riparian vegetation.
-
 Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first person from Nepal to earned a Master of Science in Geoinformatics from Muenster University, Germany in 2017.
 
 ### Featured Projects
@@ -33,6 +31,8 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 
 ### Courses
  - [HYDROLEARN](https://apps.edx.hydrolearn.org/learning/course/course-v1:JacksonStateUniversity_UniversityofAlabama+CE101+2024/home)
+ - [GY 101:Atmospheric Processes & Patterns](https://oira.ua.edu/syllabus/201040/48154)
+ - [GY102:Earth Surface Processes](https://oira.ua.edu/syllabus/201040/41009)
    
 ### Awards
  - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
@@ -44,7 +44,6 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [SlopeCurvature](https://meanderclassify.users.earthengine.app/view/slopecurvature)
 - [Flood Morang](https://pawanthapa42.users.earthengine.app/view/flood-morang)
   
-
 ### Programming Language Proficiency
 - [Python](https://docs.python.org/3/library/idle.html)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
@@ -80,7 +79,6 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [HYCAT]()
 - [Hand-held Spectroradiometer]()
   
-
 ### Licenses
 - [Unmmaned Aerial Vehicle](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot?fbclid=IwAR0-STBnQ0JtqnnGlw9yiq2x9YSVCaM-BIyqjOnChk40aIndjBGCLvQEkKg#ech)
 - [Vessel](https://www.boat-ed.com/alabama/)
@@ -94,7 +92,6 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [Mentoring 365](https://mentoring365.chronus.com/members/14944854)
   
 ### Publications
- 
 1)	Thapa P., Davis L., Amanambu A., Frame J., LaFevor M. (2025) Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery, under review Earth Surface Processes and Landforms.
 2)	Thapa P, Thapa M. (2025) Integrating Geospatial Technologies and Machine Learning for Enhanced Disaster Management in Developing Countries, conference proceedings for Locate 25 The National Geospatial Conference, FIG Working Week in 2025, Hybrid, Brisbane, Australia
 3)	Thapa, P., & Thapa, M. (2025). Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal. Next Research, 100207. https://doi.org/10.1016/j.nexres.2025.100207
@@ -117,10 +114,3 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 20)	Thapa P, (2020) A Prototype for Interactive Web Map December, Geospace VII. 
 21)	Thapa, P., & Upadhyaya, P. S. (2019). Vulnerability assessment of indigenous communities to climate change in Nepal. Journal of Land Management and Geomatics Education, 1(1), 41-46.
 22)	Thapa, P., & Dhulikhel, N. (2019). Observed and perceived climate change analysis in the Terai Region, Nepal. GSJ, 7(12), 35-43.
-
-
-
-
-
-
-
