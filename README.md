@@ -51,7 +51,7 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
   
 ### Softwares
 - [ArcGIS Pro](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
-- [Adobe Illustrator]([https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s](https://www.adobe.com/products/illustrator/free-trial-download.html?msockid=1afc3f341b66698623782a051a3068d2))
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html?msockid=1afc3f341b66698623782a051a3068d2)
 - [ERDAS IMAGINE](https://hexagon.com/products/erdas-imagine)
 - [QGIS](https://qgis.org/download/)
 - [RSQ](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/acoustic-doppler-profilers-adpadcp/rs5/)
