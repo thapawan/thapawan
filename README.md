@@ -33,7 +33,6 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
  - [HYDROLEARN](https://apps.edx.hydrolearn.org/learning/course/course-v1:JacksonStateUniversity_UniversityofAlabama+CE101+2024/home)
  - [GY 101: Atmospheric Processes & Patterns](https://oira.ua.edu/syllabus/201040/48154)
  - [GY102: Earth Surface Processes](https://oira.ua.edu/syllabus/201040/41009)
- - 
    
 ### Awards
  - [Awards](https://github.com/thapawan/thapawan/blob/main/Awards)
