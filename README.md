@@ -94,7 +94,7 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [Mentoring 365](https://mentoring365.chronus.com/members/14944854)
   
 ### Publications
-1)	Thapa P., Davis L., Amanambu A., Frame J., LaFevor M. (2025) Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery, under review Earth Surface Processes and Landforms.
+1)	Thapa P., Davis L., Amanambu A., Frame J., LaFevor M. (2025) Enhanced River Planform Analysis Using Deep Learning and Medial Axis Transform with Sentinel 1A Imagery, Under Review Earth Surface Processes and Landforms.
 2)	Thapa M., Thapa P. (2025) A Hybrid Deep Learning Framework for Robust Nepali License Plate Recognition in Diverse Vehicular Scenarios, Under Review IEEE Access.
 3)	Thapa N., Thapa P. (2025) Assessing Flash Flood Impacts on Himalayan Ecosystems Through Remote Sensing and Google Earth Engine-Based Debris Flow Mapping, Under Review Remote Sensing Applications: Society and Environment.
 4)	Thapa P, Thapa M. (2025) Integrating Geospatial Technologies and Machine Learning for Enhanced Disaster Management in Developing Countries, conference proceedings for Locate 25 The National Geospatial Conference, FIG Working Week in 2025, Hybrid, Brisbane, Australia
