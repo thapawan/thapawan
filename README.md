@@ -29,6 +29,9 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 ### Conferences
  - [Conferences](https://github.com/thapawan/thapawan/blob/main/Conferences)
 
+### Supervisions
+- [Supervisions](https://github.com/thapawan/thapawan/blob/main/Supervisions)
+
 ### Courses
  - [HYDROLEARN](https://apps.edx.hydrolearn.org/learning/course/course-v1:JacksonStateUniversity_UniversityofAlabama+CE101+2024/home)
  - [GY 101: Atmospheric Processes & Patterns](https://oira.ua.edu/syllabus/201040/48154)
@@ -54,7 +57,7 @@ Previously, I lectured at Kathmandu University, Nepal. Notably, I was the first 
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html?msockid=1afc3f341b66698623782a051a3068d2)
 - [ERDAS IMAGINE](https://hexagon.com/products/erdas-imagine)
 - [QGIS](https://qgis.org/download/)
-- [RSQ](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/acoustic-doppler-profilers-adpadcp/rs5/)
+- [RSQ](https://www.xylem.com/en-us/products--services/analytical-instruments-and-equipment/data-collection-mapping-profiling-survey-systems/acoustic-doppler-profilers adpadcp/rs5/)
 - [River Surveyor](https://hydroacoustics.usgs.gov/movingboat/rslive.shtml)
 - [HYPACK](https://www.xylem.com/en-us/brands/hypack/)
 - [EXO Sonde](https://www.ysi.com/exo)
