@@ -22,8 +22,8 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 - 📊 R
 
 **Key Areas of Expertise:**
-- 🗺️ GIS, Geospatial, Geomatics, Geoinformatics
-- 🛰️ Remote Sensing
+- 🗺️ GIS, Geospatial, Geomatics, Geoinformatics, Geomorphology
+- 🛰️ Remote Sensing, UAVs, LiDAR
 - 🤖 Machine Learning & Deep Learning
 - 🌊 River Analysis & Flood Modeling
 
