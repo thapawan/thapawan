@@ -25,7 +25,7 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 - 🗺️ GIS, Geospatial, Geomatics, Geoinformatics, Geomorphology
 - 🛰️ Remote Sensing, UAVs, LiDAR
 - 🤖 Machine Learning & Deep Learning
-- 🌊 River Analysis & Flood Modeling
+- 🌊 Soil Erosion & Flood Modeling
 
 ## 📂 Featured Projects
 
