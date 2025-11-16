@@ -1,18 +1,20 @@
-- [ArcGIS Pro](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s)
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html?msockid=1afc3f341b66698623782a051a3068d2)
-- [ERDAS IMAGINE](https://hexagon.com/products/erdas-imagine)
-- [QGIS](https://qgis.org/download/)
-- [RSQ](https://www.fondriest.com/sontek-rs5-acoustic-doppler-current-profiler.htm)
-- [River Surveyor](https://hydroacoustics.usgs.gov/movingboat/rslive.shtml)
-- [HYPACK](https://www.xylem.com/en-us/brands/hypack/)
-- [EXO Sonde](https://www.ysi.com/exo)
-- [Fiji](https://imagej.net/software/fiji/)
-- [ViewSpec Pro](http://geoinfo.amu.edu.pl/geoinf/m/spektr/viewspecpro.pdf)
-- [Hyperspec III and SpectralView](https://headwallphotonics.com/products/software/hyperspec-iii-and-spectralview/)
-- [CloudCompare](https://www.danielgm.net/cc/)
-- [POSPac UAV](https://www.applanix.com/products/pospac-uav.htm)
-- [Velodyne LIDAR Veloview](https://www.paraview.org/veloview/)
-- [HPI Trajectory Plotter](https://www.youtube.com/watch?v=oEms86k9_So)
-- [ImageJ](https://imagej.net/ij/download.html)
-- [UgCS Missions](https://www.sphengineering.com/flight-planning/ugcs)
-- [GPS Pathfinder Office](https://frontierprecision.com/gps-pathfinder-office/)
+## 🛠️ Geospatial and Sensor Processing Toolkit
+
+| Category | Tool Name | Key Skill |
+| :--- | :--- | :--- |
+| **GIS & Mapping** | [ArcGIS Pro](https://www.youtube.com/watch?v=RtqLmo3qRuA&t=76s) | Advanced Analysis, Geodatabase Management, Cartography. |
+| | [QGIS](https://qgis.org/download/) | Open-Source GIS, Data Creation, and Custom Analysis. |
+| **Remote Sensing & Imaging** | [ERDAS IMAGINE](https://hexagon.com/products/erdas-imagine) | Image Classification, Orthorectification, and Raster Processing. |
+| | [Hyperspec III and SpectralView](https://headwallphotonics.com/products/software/hyperspec-iii-and-spectralview/) | Hyperspectral Data Analysis and Processing. |
+| | [Fiji](https://imagej.net/software/fiji/) / [ImageJ](https://imagej.net/ij/download.html) | Scientific Image Analysis, Manipulation, and Measurements. |
+| **LIDAR & Point Clouds** | [CloudCompare](https://www.danielgm.net/cc/) | 3D Point Cloud Filtering, Registration, and Visualization. |
+| | [Velodyne LIDAR Veloview](https://www.paraview.org/veloview/) | LIDAR Data Playback and Review. |
+| **Hydrography & Bathymetry** | [HYPACK](https://www.xylem.com/en-us/brands/hypack/) | Hydrographic Survey Design, Data Acquisition, and Processing. |
+| | [River Surveyor](https://hydroacoustics.usgs.gov/movingboat/rslive.shtml) / [RSQ](https://www.fondriest.com/sontek-rs5-acoustic-doppler-current-profiler.htm) | Real-time Acoustic Doppler Current Profiler (ADCP) Data Collection. |
+| | [EXO Sonde](https://www.ysi.com/exo) | Multiparameter Water Quality Monitoring and Calibration. |
+| **GNSS & Trajectory** | [POSPac UAV](https://www.applanix.com/products/pospac-uav.htm) | Post-Processing Kinematic (PPK) for High-Accuracy GNSS/IMU Data. |
+| | [GPS Pathfinder Office](https://frontierprecision.com/gps-pathfinder-office/) | Differential Correction of Field-Collected GNSS Data. |
+| | [HPI Trajectory Plotter](https://www.youtube.com/watch?v=oEms86k9_So) | GPS/IMU Trajectory Visualization and Quality Check. |
+| **UAV & Field Operations** | [UgCS Missions](https://www.sphengineering.com/flight-planning/ugcs) | Advanced Drone Flight Planning and Mission Execution. |
+| | [ViewSpec Pro](http://geoinfo.amu.edu.pl/geoinf/m/spektr/viewspecpro.pdf) | Field Spectroradiometer Data Review. |
+| **Cartography & Design** | [Adobe Illustrator](https://www.adobe.com/products/illustrator/free-trial-download.html) | Final Map Finishing, Layout, and Graphic Design. |
