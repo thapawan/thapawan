@@ -57,10 +57,10 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 ## 🏆 Achievements & Contributions
 
 [![Awards](https://img.shields.io/badge/Awards-🏆-gold)](https://github.com/thapawan/thapawan/blob/main/Awards.md)
-[![Conferences](https://img.shields.io/badge/Conferences-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Conferences)
-[![Courses](https://img.shields.io/badge/Courses-📚-lightgreen)](https://github.com/thapawan/thapawan/edit/main/Courses)
+[![Conferences](https://img.shields.io/badge/Conferences-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Conferences.md)
+[![Courses](https://img.shields.io/badge/Courses-📚-lightgreen)](https://github.com/thapawan/thapawan/edit/main/Courses.md)
 [![Software](https://img.shields.io/badge/Software-💻-cyan)](https://github.com/thapawan/thapawan/blob/main/Software.md)
-[![Supervisions](https://img.shields.io/badge/Supervisions-🧑‍🏫-green)](https://github.com/thapawan/thapawan/blob/main/Supervisions)
+[![Supervisions](https://img.shields.io/badge/Supervisions-🧑‍🏫-green)](https://github.com/thapawan/thapawan/blob/main/Supervisions.md)
 [![Instruments](https://img.shields.io/badge/Instruments-🛠️-orange)](https://github.com/thapawan/thapawan/blob/main/Instruments.md)
 [![Judges](https://img.shields.io/badge/Judges-⚖️-purple)](https://github.com/thapawan/thapawan/blob/main/Judges)
 [![Licenses](https://img.shields.io/badge/Licenses-📜-teal)](https://github.com/thapawan/thapawan/blob/main/Licenses)
