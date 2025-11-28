@@ -1,4 +1,4 @@
-🚁 ## Equipment & Operational Licenses
+## 🚁 Equipment & Operational Licenses
 1) FAA 107 Unmanned Aerial Vehicle (UAV) Operator
 2) Vessel Navigation & Operation
 3) Driving License
@@ -27,7 +27,7 @@
 | Machine Learning for ALL                                                      | University of London                        | Sept 2020  | Online |
 | Python Basics                                                                 | University of Michigan                      | Sept 2020  | Online |
 
-💡 ## Highlights
+## 💡 Highlights
 Certified in AI, GIS, cloud computing, and data science from top global institutions.
 Hands-on experience with ArcGIS, Python, Azure, and machine learning workflows.
 Strong foundation in statistical modeling, scientific writing, and remote sensing applications.
