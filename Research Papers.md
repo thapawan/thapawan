@@ -37,7 +37,8 @@
 | Year | Title | Conference | DOI / Link |
 |------|-------|-----------|------------|
 | 2025 | MMATWidth: Detection of River Centerlines Extraction and Width Estimation Using Modified Medial Axis Transform | IEEE Region 10 Symposium (TENSYMP) | [https://doi.org/10.109/TENSYMP63728.2025.11144976 |
-| 2021 | Land Parcel Information System Using Free and Open-Source Platform | FIG eWorking Week | [View Paper](https://www.fig.net/resources/proceedingsl of Free and Open-Source Software for Education in Developing Countries | FOSS4G Asia 2021 | https://doi.org/10.13140/RG.2.2.31876.65929 |
+| 2021 | Land Parcel Information System Using Free and Open-Source Platform | FIG eWorking Week | [View Pape](https://www.fig.net/resources/proceedingsl of Free and Open-Source Software for Education in Developing Countries 
+| FOSS4G Asia 2021 |Potential of Free and Open Source Software for Education in Developing Countries| https://doi.org/10.13140/RG.2.2.31876.65929 |
 
 </details>
 
@@ -50,7 +51,7 @@
 |------|-------|--------|------|
 | 2022 | Spatial Analysis of Relationship between Land Surface Temperature, NDVI and LULCC | Geospace 7(1) | — |
 | 2020 | A Prototype for Interactive Web Map | Geospace VII | — |
-| 2019 | National Level Forests and Land Cover Analysis of Nepal | Ministry of Forests and Environment | [https://doi.org/0.13140/RG.2.2.29859.81446 |
-| 2018 | Evaluating a Fit-For-Purpose Integrated Service-Oriented Land and Climate Change Information System | ISPRS Int. J. of Geo-Information | [https://doi.org10.3390/ijgi7090343 |
+| 2019 | National Level Forests and Land Cover Analysis of Nepal | Ministry of Forests and Environment | https://doi.org/0.13140/RG.2.2.29859.81446 |
+| 2018 | Evaluating a Fit-For-Purpose Integrated Service-Oriented Land and Climate Change Information System | ISPRS Int. J. of Geo-Information | https://doi.org10.3390/ijgi7090343 |
 
 </details>
