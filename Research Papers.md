@@ -8,7 +8,7 @@
 | 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | https://doi.org/10.1002/esp.70158 |
 | 2025 | Drone in hyperspectral remote sensing data analytics: techniques and applications | *Geocarto International* (Q1, IF: 3.5) | https://doi.org/10.1080/10106049.2025.2572670 |
 | 2025 | Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas | *Progress in Disaster Science* (Under Review, Q1, IF: 3.8) | — |
-| 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | https//doi.org/10.1016/j.nexres.2025.100207 |
+| 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | https://doi.org/10.1016/j.nexres.2025.100207 |
 | 2022 | Prospection of Potential Iron Deposit in Gandaki and Lumbini Province of Nepal Using Remote Sensing Technology | *Journal on Geoinformatics, Nepal* | https://doi.org/10.3126/njg.v21i1.50886 |
 | 2021 | Potential of Unmanned Aerial Vehicles for Agriculture: A Review | *Review of Behavioral Aspect in Organizations and Society* | https://doi.org/10.32770/rbaos.vol31-8|
 | 2021 | Still a Vision Cadastre 2014 for Nepal | *Turkish Journal of Land Management* | https://doi.org/10.51765/tayod.899431 |
