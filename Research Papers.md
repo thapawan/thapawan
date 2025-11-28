@@ -5,10 +5,13 @@
 
 | Year | Title | Journal | DOI / Link |
 |------|-------|---------|------------|
-| 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | [https://doi.org/10.1002/esp.70158](https://doi.org/10.1002/esp.ral Remote Sensing (HRS) Data Analytics: Techniques and Applications | *Geocarto International* (Q1, IF: 3.5) | [https://doi.org/10.1080/10106049.2025.2572670](https://doi.org/10.1080n Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas | *Progress in Disaster Science* (Under Review, Q1, IF: 3.8) | — |
-| 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | [https//doi.org/10.1016/j.nexres.2025.100207 |
+| 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | https://doi.org/10.1002/esp.70158 |
+| 2025 | Drone in hyperspectral remote sensing data analytics: techniques and applications | *Geocarto International* (Q1, IF: 3.5) | https://doi.org/10.1080/10106049.2025.2572670 |
+| 2025 | Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas | *Progress in Disaster Science* (Under Review, Q1, IF: 3.8) | — |
+| 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | https//doi.org/10.1016/j.nexres.2025.100207 |
 | 2022 | Prospection of Potential Iron Deposit in Gandaki and Lumbini Province of Nepal Using Remote Sensing Technology | *Journal on Geoinformatics, Nepal* | https://doi.org/10.3126/njg.v21i1.50886 |
-| 2021 | Potential of Unmanned Aerial Vehicles for Agriculture: A Review | *Review of Behavioral Aspect in Organizations and Society* | [https://doi.org/10.32770/rbaos.vol31-8](https1 | Still a Vision Cadastre 2014 for Nepal | *Turkish Journal of Land Management* | https://doi.org/10.51765/tayod.899431 |
+| 2021 | Potential of Unmanned Aerial Vehicles for Agriculture: A Review | *Review of Behavioral Aspect in Organizations and Society* | https://doi.org/10.32770/rbaos.vol31-8|
+| 2021 | Still a Vision Cadastre 2014 for Nepal | *Turkish Journal of Land Management* | https://doi.org/10.51765/tayod.899431 |
 | 2020 | Spatial estimation of soil erosion using RUSLE modeling: a case study of Dolakha district, Nepal | *Environmental Systems Research* (Q2, IF: 3.4) | https://doi.org/10.1186/s40068-020-00177-2 |
 
 </details>
@@ -20,9 +23,9 @@
 
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
-| 2025 | Deep Learning-Enhanced Flood Risk Mapping for Urban Planning and Disaster Mitigation in the Morang District, Nepal Himalaya | *The Himalaya Dilemma* – Springer | [https://doi.org/10.1007/978-3-31-95083-4_21 |
-| 2022 | Time Series Analysis and Forecast of COVID-19 Pandemic | *Decision Sciences for COVID-19* – Springer | [https://doi.org/10.1007/9783-030-87019-5_6 |
-| 2022 | Soil Erosion Estimation Using RUSLE Model and GIS | *GIScience for Sustainable Management of Water Resources* – Apple Academic Press | [https://doi.org/10.201/9781003284512-16 |
+| 2025 | Deep Learning-Enhanced Flood Risk Mapping for Urban Planning and Disaster Mitigation in the Morang District, Nepal Himalaya | *The Himalaya Dilemma* – Springer | https://doi.org/10.1007/978-3-31-95083-4_21 |
+| 2022 | Time Series Analysis and Forecast of COVID-19 Pandemic | *Decision Sciences for COVID-19* – Springer | https://doi.org/10.1007/9783-030-87019-5_6 |
+| 2022 | Soil Erosion Estimation Using RUSLE Model and GIS | *GIScience for Sustainable Management of Water Resources* – Apple Academic Press | https://doi.org/10.201/9781003284512-16 |
 | 2021 | Predicating COVID-19 Epidemic in Nepal Using the SIR Model | *Artificial Intelligence for COVID-19* – Springer | https://doi.org/10.1007/978-3-030-69744-0_14 |
 | 2021 | Impacts of Land-Use and Land-Cover Change on Land Degradation | *Re-envisioning Remote Sensing Applications* – Taylor & Francis | https://doi.org/10.1201/9781003049210-15 |
 | 2021 | The Relationship between Land Use and Climate Change: A Case Study of Nepal | *Climate Change on the Environment* – IntechOpen | https://doi.org/10.5772/intechopen.98282 |
