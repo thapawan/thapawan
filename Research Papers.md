@@ -36,9 +36,9 @@
 
 | Year | Title | Conference | DOI / Link |
 |------|-------|-----------|------------|
-| 2025 | MMATWidth: Detection of River Centerlines Extraction and Width Estimation Using Modified Medial Axis Transform | IEEE Region 10 Symposium (TENSYMP) | [https://doi.org/10.109/TENSYMP63728.2025.11144976 |
-| 2021 | Land Parcel Information System Using Free and Open-Source Platform | FIG eWorking Week | [View Pape](https://www.fig.net/resources/proceedingsl of Free and Open-Source Software for Education in Developing Countries 
-| FOSS4G Asia 2021 |Potential of Free and Open Source Software for Education in Developing Countries| https://doi.org/10.13140/RG.2.2.31876.65929 |
+| 2025 | MMATWidth: Detection of River Centerlines Extraction and Width Estimation Using Modified Medial Axis Transform | IEEE Region 10 Symposium (TENSYMP) | https://doi.org/10.109/TENSYMP63728.2025.11144976 |
+| 2021 | Land Parcel Information System Using Free and Open-Source Platform | FIG eWorking Week | [View Paper](https://www.fig.net/resources/proceedings/fig_proceedings/fig2021/papers/ts07.2/TS07.2_thapa_10910.pdf)
+| 2021 |Potential of Free and Open Source Software for Education in Developing Countries|Proceedings of FOSS4G Asia 2021: In The Era of Artificial Intelligence and IoT for Land Management and Sustainable Development| https://doi.org/10.13140/RG.2.2.31876.65929 |
 
 </details>
 
