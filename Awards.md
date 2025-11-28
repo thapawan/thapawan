@@ -19,7 +19,7 @@
 
 - 🏅 **Finalist – GISS Student Honors Paper Competition**  
   AAG Annual Meeting 2025 — $200  
-  View Details
+
 
 - 🔬 **HydroLearn Fellowship**  
   CIROH Development Conference & HydroLearn Events  
