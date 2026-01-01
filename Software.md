@@ -28,6 +28,8 @@ This repository showcases a comprehensive toolkit of industry-standard software 
 |                             | EXO Sonde | Multiparameter Water Quality Monitoring and Calibration |
 | 🏞 **Hydraulic & Hydrology** | [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/) | River Hydraulics, Flood Modeling |
 |                             | [HY-8](https://www.fhwa.dot.gov/engineering/hydraulics/software/hy8/) | Culvert and Hydraulic Structure Analysis |
+|                             |LISFlood | Flood Modeling and Mapping |
+|                             |SWAT | Hydrological Modeling |
 | 📡 **GNSS & Trajectory**    | POSPac UAV | PPK for High-Accuracy GNSS/IMU Data |
 |                             | GPS Pathfinder Office | Differential Correction of Field-Collected GNSS Data |
 |                             | HPI Trajectory Plotter | GPS/IMU Trajectory Visualization and Quality Check |
