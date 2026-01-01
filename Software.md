@@ -34,6 +34,7 @@ This repository showcases a comprehensive toolkit of industry-standard software 
 | 🚁 **UAV & Field Operations** | [UgCS Missions](https://www.ugcs.com/) | Advanced Drone Flight Planning and Mission Execution |
 |                             | [Drone2Map](https://www.esri.com/en-us/arcgis/products/arcgis-drone2map/overview) | Drone Imagery Processing and Mapping |
 |                             | ViewSpec Pro | Field Spectroradiometer Data Review |
+|                             | Pix4D Mapper | Mapping and Field planning |
 | 🎨 **Cartography & Design** | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | Final Map Finishing, Layout, Graphic Design |
 | 🖥 **Engineering & CAD**    | [AutoCAD](https://www.autodesk.com/products/autocad/overview) | CAD Design, Drafting for Geospatial Applications |
 | ⚡ **High-Performance & Cloud** | HPC | High-Performance Computing for Geospatial Analysis |
