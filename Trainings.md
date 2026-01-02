@@ -1,5 +1,9 @@
 ## 🎯 Trainings, Workshops & Special Activities
 
+Welcome to my curated list of trainings, workshops, and special activities organized by category for easy navigation.
+
+---
+
 <details>
 <summary>📡 <b>Drone Operations & Demonstrations</b></summary>
 
@@ -18,7 +22,7 @@
 
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
-| Oct 23, 30 & Nov 6, 2025 | [Spaceborne Lidar for Monitoring Vegetation Structure & Biomass usingGEDI | Virtual – 11:00 AM–1:00 PM |
+| Oct 23, 30 & Nov 6, 2025 | Spaceborne Lidar for Monitoring Vegetation Structure & Biomass using GEDI | Virtual – 11:00 AM–1:00 PM |
 | July 28–31, 2025 | WaterSoftHack | Machine Learning & Cyberinfrastructure for Water Science – Virtual |
 | June 4–7, 2024 | HydroLearn CIROH Virtual Summer Hackathon & Workshop | Synchronous Online – Hydrology & Water Resources Engineering |
 | Feb 28–Mar 1, 2023 | Headwall Hyperspectral Remote-Sensing Workshop | University of Florida, Gainesville |
@@ -37,7 +41,9 @@
 | Fall 2023 | AAG Professional Development Webinars | Aug 31 & Dec 7 – Virtual |
 | Feb 22–24, 2022 | Literature Review Writing Workshop | RDI Writing Unit |
 | 2021 | Invited Expert: STEM Talk (Research & Technology) | Ullens School, Nepal – Virtual |
-| Mar 2021 | Technical Expert Committee | [Virtual Conference on Disaster Risk Reduction](httpstails>
+| Mar 2021 | Technical Expert Committee | Virtual Conference on Disaster Risk Reduction |
+
+</details>
 
 ---
 
@@ -80,3 +86,17 @@
 | Mar 11–22, 2019 | Instructional Skills (IS-2) – TITI under CTEVT |
 
 </details>
+
+---
+
+## 🛠️ Trainings & Courses
+
+### 🔍 Recent/Upcoming Technical Training (2025)
+- **WaterSoftHack Cybertraining** — Machine learning and cyberinfrastructure skills for water science and engineering applications (July 28–Aug 08, Virtual)
+- **Spaceborne Lidar for Monitoring Vegetation Structure and Biomass using GEDI** — Oct 23, 30 & Nov 6
+- **CyberTraining Workshop** — Cyberinfrastructure-enabled Spatial Data Science for Disaster Resilience (UCGIS Symposium, June 23–27, Laramie, WY)
+
+### 🎓 Online Learning & Certifications
+- **HydroLearn Courses** — Snow and Climate, Culvert Design using HEC-RAS, Frequency Analysis in Hydrology, and Introduction to Floodplain Analysis
+- **EO College** — Introduction to Machine Learning for Earth Observation
+- **Other Platforms** — ESRI Classes, NASA classes, AI and Machine Learning on Olympus/Great Learning
