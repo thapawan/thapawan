@@ -10,15 +10,13 @@ My teaching philosophy emphasizes **experiential learning, geospatial technologi
 
 **Department of Geography & the Environment**
 
-- 🌐 **HydroLearn: Natural Disasters & Community Planning (MOOC)**  
-  *Role:* Content expert, developer, writer, on-screen host; supervised student contributors.
-
 - 🌦️ **GY 101: Atmospheric Processes & Patterns (UG)**  
   Intro to climate systems, weather dynamics, and atmospheric modeling.
 
 - 🌍 **GY 102: Earth Surface Processes (UG)**  
   Focus on geomorphology, hydrology, and landform evolution.
 
+Notes: Support for lab of GIS, UAVs, Remote Sensing, and Field Survey.
 </details>
 
 ---
@@ -37,10 +35,14 @@ My teaching philosophy emphasizes **experiential learning, geospatial technologi
 - GEOM 410: Final Independent Project (UG)
 - GEOM 310: Cadastre (UG)
 - LAMP 203: Field Survey I (UG)
+- GEOM 204: Geographic Information System (UG)
 - GEOM 303: Engineering & Construction Survey (UG)
 - GEOM 304: Field Surveys II (UG)
 - ENVE 209: Engineering & Environment Survey (UG)
 - GEOM 314: Engineering Project VI (UG)
+- GEOM 313: Modern Cartography (UG)
+- GEOM 402: Remote Sensing (UG)
+- GEOM 405: Web GIS (UG)
 
 </details>
 
@@ -61,9 +63,14 @@ My teaching philosophy emphasizes **experiential learning, geospatial technologi
 <details>
 <summary>🌐 <b>Online Learning Platforms</b></summary>
 
+
+- 🌐 **HydroLearn: Natural Disasters & Community Planning (MOOC)**  
+  *Role:* Content expert, developer, writer, on-screen host; supervised student contributors.
+
 **Massive Open Online Courses (MOOCs)**
 - *Natural Disasters – Community Planning and Development* (Udemy, Coursera)  
   *Role:* Co-developer, content expert, video host, and student mentor.
+  
 
 </details>
 
