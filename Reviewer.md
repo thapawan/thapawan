@@ -15,5 +15,6 @@
 | 7 | Journal of Natural Hazards – Springer Nature | 1 |
 | 8 | PLOS ONE | 1 |
 | 9 | Journal of Geographic Information System (JGIS) | 1 |
+| 10 | Arabian Journal of Geoscience | 4|
 
 </details>
