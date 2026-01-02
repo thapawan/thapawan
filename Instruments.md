@@ -13,7 +13,7 @@
 | Category | Instrument |
 |----------|------------|
 | 🛩 **Aerial** | Unmanned Aerial Vehicles (UAVs) |
-| 🚤 **Hydro Survey** | Vessel • [HYCAT Autonomous Boat](https://www.xylem.com/en-us/products--services/systems--packaged-solutions/hydrosltiparameter Sonde |
-| 🌈 **Spectroscopy** | [ASD FieldSpec](https://ld Spectroradiometer|
+| 🚤 **Hydro Survey** | Vessel [HYCAT Autonomous Boat](https://www.xylem.com/en-us/products--services/systems--packaged-solutions/hydrosltiparameter) Sonde |
+| 🌈 **Spectroscopy** | [ASD FieldSpec](https://ldSpectroradiometer)|
 | 🔍 **Flow Measurement** | RS5 Pro Max ADCP |
 
