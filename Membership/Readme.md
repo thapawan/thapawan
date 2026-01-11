@@ -1,4 +1,3 @@
-
 🌍 Professional Memberships & Leadership Roles
 A curated overview of my academic, professional, and scientific society memberships, along with leadership roles across geoscience, engineering, GIS, and remote sensing communities.
 
