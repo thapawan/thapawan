@@ -1,91 +1,76 @@
-🌍 Professional Memberships & Leadership Roles
+# 🌍 Professional Memberships & Leadership Roles
+
 A curated overview of my academic, professional, and scientific society memberships, along with leadership roles across geoscience, engineering, GIS, and remote sensing communities.
 
-🔹 Professional & Scientific Memberships
-🌐 Geoscience & Geography Societies
+***
 
-American Geophysical Union (AGU)
+## 🔹 **Professional & Scientific Memberships**
 
-Mentoring 365 Program Participant, 2023–2025
-General Member, 2023–2025
+### **🌐 Geoscience & Geography Societies**
 
+*   **American Geophysical Union (AGU)**
+    *   *Mentoring 365 Program Participant*, 2023–2025
+    *   *General Member*, 2023–2025
+*   **European Geosciences Union (EGU)**
+    *   *General Member*, 2023–2025
+*   **American Association of Geographers (AAG)**
+    *   *Member*, 2022–2025
+    *   *Developing Regions Member & Specialty Group Member*, 2022–2024
+    *   *Diversity, Equity & Inclusion (DEI) Committee Member*, 2022–2024
+*   **American Geographical Society (AGRS)**
+    *   *Member*, 2024–2025
 
-European Geosciences Union (EGU)
+***
 
-General Member, 2023–2025
+### **🔧 Engineering & Remote Sensing Organizations**
 
+*   **Institute of Electrical and Electronics Engineers (IEEE)**
+    *   *Student Member*, 2024–2025
+*   **International Society for Photogrammetry and Remote Sensing (ISPRS)**
+    *   *Individual Member*, 2021–2024
+*   **Nepal Engineers Association (NEA)**
+    *   *Lifetime Member*, Since 2013
+*   **Nepal Engineering Council (NEC)**
+    *   *Registered Member*, Since 2013
 
-American Association of Geographers (AAG)
+***
 
-Member, 2022–2025
-Developing Regions Member & Specialty Group Member, 2022–2024
-Diversity, Equity & Inclusion (DEI) Committee Member, 2022–2024
+### **💧 Water Resources & Environmental Research**
 
+*   **Alabama Water Institute (AWI)**
+    *   *Affiliated Member*, 2022–2025
 
-American Geographical Society (AGRS)
+***
 
-Member, 2024–2025
+## 📝 **Editorial & Scientific Committees**
 
+*   **Global Scientific Journals (GSJ)**
+    *   *Editorial Board Member*
+*   **International Scientific Council (ISC)**
+    *   *Scientific Committee Member*
 
-🔧 Engineering & Remote Sensing Organizations
+***
 
-Institute of Electrical and Electronics Engineers (IEEE)
+## 🎓 **Academic Leadership Roles**
 
-Student Member, 2024–2025
+*   **Geomatics Engineering Program**
+    *   *Student Representative*, 2010–2012
+*   **Student Council (Bachelor Studies)**
+    *   *Vice President*, 2010–2013
 
+***
 
-International Society for Photogrammetry and Remote Sensing (ISPRS)
+## 📌 **Summary**
 
-Individual Member, 2021–2024
-
-
-Nepal Engineers Association (NEA)
-
-Lifetime Member, Since 2013
-
-
-Nepal Engineering Council (NEC)
-
-Registered Member, Since 2013
-
-
-💧 Water Resources & Environmental Research
-
-Alabama Water Institute (AWI)
-
-Affiliated Member, 2022–2025
-
-
-📝 Editorial & Scientific Committees
-
-Global Scientific Journals (GSJ)
-
-Editorial Board Member
-
-
-International Scientific Council (ISC)
-
-Scientific Committee Member
-
-
-🎓 Academic Leadership Roles
-
-Geomatics Engineering Program
-
-Student Representative, 2010–2012
-
-
-Student Council (Bachelor Studies)
-
-Vice President, 2010–2013
-
-
-📌 Summary
 This collection of memberships reflects my multidisciplinary engagement across:
 
-🌎 Geospatial science
-🛰 Remote sensing
-🗺 Geography & geomorphology
-⚙ Engineering professions
-🧑‍🎓 Academic leadership
-🧭 Scientific research communities
+*   🌎 Geospatial science
+*   🛰 Remote sensing
+*   🗺 Geography & geomorphology
+*   ⚙ Engineering professions
+*   🧑‍🎓 Academic leadership
+*   🧭 Scientific research communities
+
+I strive to advance open science, geospatial literacy, and collaborative Earth system research through active participation in these organizations.
+
+
