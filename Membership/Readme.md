@@ -27,8 +27,6 @@ American Geographical Society (AGRS)
 Member, 2024–2025
 
 
-
-
 🔧 Engineering & Remote Sensing Organizations
 
 Institute of Electrical and Electronics Engineers (IEEE)
@@ -51,15 +49,11 @@ Nepal Engineering Council (NEC)
 Registered Member, Since 2013
 
 
-
-
 💧 Water Resources & Environmental Research
 
 Alabama Water Institute (AWI)
 
 Affiliated Member, 2022–2025
-
-
 
 
 📝 Editorial & Scientific Committees
@@ -74,8 +68,6 @@ International Scientific Council (ISC)
 Scientific Committee Member
 
 
-
-
 🎓 Academic Leadership Roles
 
 Geomatics Engineering Program
@@ -88,8 +80,6 @@ Student Council (Bachelor Studies)
 Vice President, 2010–2013
 
 
-
-
 📌 Summary
 This collection of memberships reflects my multidisciplinary engagement across:
 
@@ -99,4 +89,3 @@ This collection of memberships reflects my multidisciplinary engagement across:
 ⚙ Engineering professions
 🧑‍🎓 Academic leadership
 🧭 Scientific research communities
-
