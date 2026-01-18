@@ -10,24 +10,24 @@ A curated overview of my academic, professional, and scientific society membersh
 
 *   **American Geophysical Union (AGU)**
     *   *Mentoring 365 Program Participant*, 2023–2025
-    *   *General Member*, 2023–2025
+    *   *General Member*, 2023–2026
 *   **European Geosciences Union (EGU)**
-    *   *General Member*, 2023–2025
+    *   *General Member*, 2023–2026
 *   **American Association of Geographers (AAG)**
-    *   *Member*, 2022–2025
+    *   *Member*, 2022–2026
     *   *Developing Regions Member & Specialty Group Member*, 2022–2024
     *   *Diversity, Equity & Inclusion (DEI) Committee Member*, 2022–2024
 *   **American Geographical Society (AGRS)**
-    *   *Member*, 2024–2025
+    *   *Member*, 2024–2026
 
 ***
 
 ### **🔧 Engineering & Remote Sensing Organizations**
 
 *   **Institute of Electrical and Electronics Engineers (IEEE)**
-    *   *Student Member*, 2024–2025
+    *   *Student Member*, 2024–2026
 *   **International Society for Photogrammetry and Remote Sensing (ISPRS)**
-    *   *Individual Member*, 2021–2024
+    *   *Individual Member*, 2021–2026
 *   **Nepal Engineers Association (NEA)**
     *   *Lifetime Member*, Since 2013
 *   **Nepal Engineering Council (NEC)**
@@ -38,7 +38,7 @@ A curated overview of my academic, professional, and scientific society membersh
 ### **💧 Water Resources & Environmental Research**
 
 *   **Alabama Water Institute (AWI)**
-    *   *Affiliated Member*, 2022–2025
+    *   *Affiliated Member*, 2022–2026
 
 ***
 
