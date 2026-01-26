@@ -3,6 +3,9 @@
 ### 🎓 Graduate Council Fellowship 
 Awarded for exceptional academic performance and research excellence — *2026*
 
+### 🎓 Outstanding Doctoral Graduate Research Award
+Awarded for excellence in doctoral research and scholarly contribution  — *2026*
+
 ### 🎓 NASA/ASU Infiniscope Training  
 Completed “Virtual Tour 101” and created an interactive 360° virtual field trip  
 **Award:** $1,000 stipend — *Nov 7, 2025*
