@@ -3,6 +3,18 @@
 Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, and professional development. Organized by upcoming and past events for easy navigation.
 
 ---
+### 📅 Events (2026)
+- EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
+- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026 10:00 a.m. to 4:00 p.m. CST
+- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026 10:00 a.m. to 4:00 p.m. CST
+- “Advancing Open Knowledge to Earth Intelligence” webinar 1 The GEO Dialogue Series 2026 builds on the 2025 GEO Onboarding Webinars for GEO Work Progremme Activities and drives GEO's mission toward equitable, actionable Earth Intelligence for All, Jan 22, 2026 08:00 AM 
+- Remote Sensing of Permafrost Vulnerability and Geohazards, Feb 23, 2026 10:00 AM, by Simon Zwieback University of Alaska Fairbanks, USA
+
+  # This webinar series takes place from 2:00-3:00 PM ET and includes these sessions:
+ - January 28 - Current Research in Hydrogeodesy and Hydroseismology
+ -  February 11 - Challenges and Opportunities in Data Sharing & Critical Zone Science
+ -  February 25 - Innovative Technical Tools and Methods
+ -  March 11 - Building Skills and Finding Collaborators for Hydrogeophysics
 
 ### 📅 Events (December 2025)
 - **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis**  
