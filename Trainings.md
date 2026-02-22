@@ -22,6 +22,10 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
+
+| Feb 17, 2026 |Introduction to a machine learning model to estimate water quality parameters based on satellite observations | NASA ARSET |
+| Feb 10, 2026 | Introduction and Demonstration of STREAM | NASA ARSET |
+| Feb 5, 2026 | Machine Learning for Remote Sensing |
 | Oct 23, 30 & Nov 6, 2025 | Spaceborne Lidar for Monitoring Vegetation Structure & Biomass using GEDI | Virtual – 11:00 AM–1:00 PM |
 | July 28–31, 2025 | WaterSoftHack | Machine Learning & Cyberinfrastructure for Water Science – Virtual |
 | June 4–7, 2024 | HydroLearn CIROH Virtual Summer Hackathon & Workshop | Synchronous Online – Hydrology & Water Resources Engineering |
@@ -42,6 +46,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | Feb 22–24, 2022 | Literature Review Writing Workshop | RDI Writing Unit |
 | 2021 | Invited Expert: STEM Talk (Research & Technology) | Ullens School, Nepal – Virtual |
 | Mar 2021 | Technical Expert Committee | Virtual Conference on Disaster Risk Reduction |
+| Jan 26, 2026 | Graduate School Thesis and Dissertation |
 
 </details>
 
@@ -56,6 +61,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | Nov 6, 2024 | GTA Training: Upgrading |
 | Nov 21, 2024 | GTA Training: Generative AI for Teaching |
 | 2025 | General Driver Safety Training |
+
 
 </details>
 
@@ -91,7 +97,9 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 ## 🛠️ Trainings & Courses
 
-### 🔍 Recent/Upcoming Technical Training (2025)
+### 🔍 Recent/Upcoming Technical Training 
+
+#### 2025
 - **WaterSoftHack Cybertraining** — Machine learning and cyberinfrastructure skills for water science and engineering applications (July 28–Aug 08, Virtual)
 - **Spaceborne Lidar for Monitoring Vegetation Structure and Biomass using GEDI** — Oct 23, 30 & Nov 6
 - **CyberTraining Workshop** — Cyberinfrastructure-enabled Spatial Data Science for Disaster Resilience (UCGIS Symposium, June 23–27, Laramie, WY)
@@ -99,4 +107,8 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 ### 🎓 Online Learning & Certifications
 - **HydroLearn Courses** — Snow and Climate, Culvert Design using HEC-RAS, Frequency Analysis in Hydrology, and Introduction to Floodplain Analysis
 - **EO College** — Introduction to Machine Learning for Earth Observation
-- **Other Platforms** — ESRI Classes, NASA classes, AI and Machine Learning on Olympus/Great Learning
+- **Other Platforms**
+-  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
+-  NASA classes: Open Science Essentials and Open Science 101
+-  AI and Machine Learning on Olympus/Great Learning
+  
