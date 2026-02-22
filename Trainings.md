@@ -107,8 +107,8 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 ### 🎓 Online Learning & Certifications
 - **HydroLearn Courses** — Snow and Climate, Culvert Design using HEC-RAS, Frequency Analysis in Hydrology, and Introduction to Floodplain Analysis
 - **EO College** — Introduction to Machine Learning for Earth Observation
+- **GIS and Earth Observation University** — Sentinel Hub Webinar Series course
 - **Other Platforms**
 -  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
 -  NASA classes: Open Science Essentials and Open Science 101
 -  AI and Machine Learning on Olympus/Great Learning
-  
