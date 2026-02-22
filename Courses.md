@@ -16,7 +16,7 @@ My teaching philosophy emphasizes **experiential learning, geospatial technologi
 - 🌍 **GY 102: Earth Surface Processes (UG)**  
   Focus on geomorphology, hydrology, and landform evolution.
 
-Notes: Support for lab of GIS, UAVs, Remote Sensing, and Field Survey.
+Notes: Support for lab of GIS, UAVs, Remote Sensing, and Field Survey of land, aerial and water.
 </details>
 
 ---
