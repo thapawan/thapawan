@@ -39,6 +39,10 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 
 <details>
 <summary>📅 <b>Yearly Breakdown</b></summary>
+  
+#### 2026
+- The 6th International Electronic Conference on Remote Sensing	International Electronic Conference on Remote Sensing, Hybrid (Wuhan University)	18 June, 2026
+- AI in the Geosciences	5195a5_e2df039912dc43eb97ca84fae9619f50.pdf, Hybrid (Burlington House, London, UK)	5 Jan, 2026
 
 #### 2025
 - AGU Annual Meeting — Virtual, Dec 24–28, New Orleans, LA
