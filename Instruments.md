@@ -6,7 +6,7 @@
 | UAV (Drone)       | Aerial imagery & mapping       | DJI Phantom 4 Pro    |
 | Spectroradiometer | Surface reflectance analysis   | ASD FieldSpec 4      |
 | LiDAR Scanner     | 3D terrain mapping             | RIEGL VZ-400i        |
-| Total Station     | Distance & angle measurement   | Leica TS16           |
+| Total Station     | Distance & angle measurement   | Leica TS16  Trimble S7 |
 | Soil Moisture Sensor | Hydrological data collection | Decagon GS3          |
 
 
