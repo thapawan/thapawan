@@ -8,6 +8,10 @@ A curated overview of my academic, professional, and scientific society membersh
 
 ### **🌐 Geoscience & Geography Societies**
 
+*   **United States Geospatial Intelligence Foundation (USGIF)**
+      * Member 2026
+*   **American Geophysical Union (AGU) Thriving Earth Exchange**
+     * Community fellow and Community Earth Scientist
 *   **American Geophysical Union (AGU)**
     *   *Mentoring 365 Program Participant*, 2023–2025
     *   *General Member*, 2023–2026
