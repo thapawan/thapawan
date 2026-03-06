@@ -9,6 +9,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Details** |
 |----------|-----------|-------------|
+| March 21, 2026 | Global Surveyor's Day |
 | Nov 18–20, 2025 | GeoAwareness Week | Drone Flight Approval (UA & FAA), Teaching & Demonstration |
 | June 28, 2025 | National Water Center Innovators Program: CUAHSI Summer Institute | Drone Flight Approval (FAA), Supervision & Demonstration |
 | Nov 15, 2023 | GIS Day | Drone Flight Approval (UA & FAA), Teaching & Demonstration |
@@ -57,6 +58,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** |
 |----------|-----------|
+| Jan 26, 2026 | Graduate School Thesis and Dissertation |
 | Sept 26, 2024 | GTA Training: Effective PowerPoint |
 | Nov 6, 2024 | GTA Training: Upgrading |
 | Nov 21, 2024 | GTA Training: Generative AI for Teaching |
@@ -98,6 +100,14 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 ## 🛠️ Trainings & Courses
 
 ### 🔍 Recent/Upcoming Technical Training 
+
+#### 2026
+- High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
+- IOI Ocean Academy (Black & Mediterranean Seas), Sustainable Coastal Tourism Development and Ocean Governance, 24 February - 17 March 2026
+- EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
+- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026
+- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026
+
 
 #### 2025
 - **WaterSoftHack Cybertraining** — Machine learning and cyberinfrastructure skills for water science and engineering applications (July 28–Aug 08, Virtual)
