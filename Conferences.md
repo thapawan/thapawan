@@ -46,7 +46,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 - International surveyors community virtually on 20 March 2026 on the topic The vital role of local and regional organisations in surveying, organised by FIG, CASLE, and SAGI
 - On-site Online Learning & Innovation Summit (OLIS), University of Alabama – Office of Leadership & Intercultural Services, Bryant Conference Center, The University of Alabama, March 5–6, 2026
 - GRSS Standard for Earth Observations Technical Committee member, Feb 2, 2026
-- AI in the Geosciences	5195a5_e2df039912dc43eb97ca84fae9619f50.pdf, Hybrid (Burlington House, London, UK)	5 Jan, 2026
+- AI in the Geosciences, Hybrid (Burlington House, London, UK)	5 Jan, 2026
 
 #### 2025
 - AGU Annual Meeting — Virtual, Dec 24–28, New Orleans, LA
