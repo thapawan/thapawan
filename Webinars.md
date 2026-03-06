@@ -4,12 +4,18 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 
 ---
 ### 📅 Events (2026)
+- Accelerating Remote Sensing with Google Earth Engine, University of Natural Resources and Life Sciences Vienna, Google, BOKU University, March 31, 2026
+- Long-Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts, University of Maryland-College Park, US, Friday 13 March 2026
+- Data Spaces & Ecosystems: Enabling Scalable Earth Intelligence, GEO Data and Knowledge Working Group, Mar 10, 2026
+- AI-Assisted Teaching with GitHub: A Faculty Workshop Series, Virtual, March 3, 10, 17 and 26, 2026
+- ISPRS WG III/9 (Geospatial Environment and Health Analytics) Webinar Series 2026, Feb 25, 2026
+- Remote Sensing of Permafrost Vulnerability and Geohazards, University of Alaska Fairbanks, USA, Feb 23, 2026
 - EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
-- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026 10:00 a.m. to 4:00 p.m. CST
-- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026 10:00 a.m. to 4:00 p.m. CST
-- “Advancing Open Knowledge to Earth Intelligence” webinar 1 The GEO Dialogue Series 2026 builds on the 2025 GEO Onboarding Webinars for GEO Work Progremme Activities and drives GEO's mission toward equitable, actionable Earth Intelligence for All, Jan 22, 2026 08:00 AM 
+- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026 
 - Remote Sensing of Permafrost Vulnerability and Geohazards, Feb 23, 2026 10:00 AM, by Simon Zwieback University of Alaska Fairbanks, USA
-
+- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026
+- “Advancing Open Knowledge to Earth Intelligence” webinar 1 The GEO Dialogue Series 2026 builds on the 2025 GEO Onboarding Webinars for GEO Work Progremme Activities and drives GEO's mission toward equitable, actionable Earth Intelligence for All, Jan 22, 2026 08:00 AM 
+  
   # This webinar series takes place from 2:00-3:00 PM ET and includes these sessions:
  - January 28 - Current Research in Hydrogeodesy and Hydroseismology
  -  February 11 - Challenges and Opportunities in Data Sharing & Critical Zone Science
@@ -106,5 +112,9 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - IEEE GRSS Germany Chapter
 - ISPRS WG III/3 & ISPRS Student Consortium
 - GOFC-GOLD SCERIN
+- NASA ARSET
+- NSF ACCESS Support Team and NAIRR Pilot User Experience Working Group
+- Open Geospatial Consortium
+- GRSS Standard for Earth Observations Technical Committee member
 - CAUSHI
-- CUAHSI
+- CIROH
