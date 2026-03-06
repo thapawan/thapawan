@@ -12,6 +12,8 @@ A curated overview of my academic, professional, and scientific society membersh
       * Member 2026
 *   **American Geophysical Union (AGU) Thriving Earth Exchange**
      * Community fellow and Community Earth Scientist
+*   **American Geophysical Union (AGU) New Circles Program**
+     * Participate
 *   **American Geophysical Union (AGU)**
     *   *Mentoring 365 Program Participant*, 2023–2025
     *   *General Member*, 2023–2026
@@ -57,6 +59,8 @@ A curated overview of my academic, professional, and scientific society membersh
 
 ## 🎓 **Academic Leadership Roles**
 
+*   **Honor Society of Phi Kappa Phi**
+    *   *Member*, 2022–2026
 *   **Geomatics Engineering Program**
     *   *Student Representative*, 2010–2012
 *   **Student Council (Bachelor Studies)**
@@ -68,7 +72,7 @@ A curated overview of my academic, professional, and scientific society membersh
 
 This collection of memberships reflects my multidisciplinary engagement across:
 
-*   🌎 Geospatial science
+*   🌎 Geospatial science and Surveying
 *   🛰 Remote sensing
 *   🗺 Geography & geomorphology
 *   ⚙ Engineering professions
