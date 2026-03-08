@@ -67,6 +67,6 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 [![Memberships](https://img.shields.io/badge/Memberships-👥-red)](https://github.com/thapawan/thapawan/tree/main/Membership)
 [![Mentorships](https://img.shields.io/badge/Mentorships-👥-blue)](https://github.com/thapawan/thapawan/blob/main/Mentors_Mentee)
 [![Publications](https://img.shields.io/badge/Publications-📑-darkblue)](https://github.com/thapawan/thapawan/blob/main/Research%20Papers.md)
-[![Blogs](https://img.shields.io/badge/Blogs-📑-darkblue)](https://geoinformaticsexpert.blogspot.com/)
+[![Blogs](https://img.shields.io/badge/Blogs-📑-darkblue)](https://www.blogger.com/profile/00763349998740801159)
 [![Reviewer](https://img.shields.io/badge/Reviewers-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Reviewer.md)
 [![Training](https://img.shields.io/badge/Trainings-🧠-lightgrey)](https://github.com/thapawan/thapawan/blob/main/Trainings.md)
