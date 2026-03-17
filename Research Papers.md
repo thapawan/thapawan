@@ -5,8 +5,8 @@
 
 | Year | Title | Journal | DOI / Link |
 |------|-------|---------|------------|
-| 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Under Submission, Q1, IF: 4.8) | — |
-| 2026 | Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas | *Progress in Disaster Science* (Under Review, Q1, IF: 3.8) | — |
+| 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Under Review, Q1, IF: 4.8) | — |
+| 2026 | High-Resolution Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas Using Sentinel-2 and Google Earth Engine: A Case Study in Melamchi River | *Geohazards & Remediation* (Under Review) | — |
 | 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q2, IF: 2.8) | — |
 | 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | https://doi.org/10.1002/esp.70158 |
 | 2025 | Drone in hyperspectral remote sensing data analytics: techniques and applications | *Geocarto International* (Q1, IF: 3.5) | https://doi.org/10.1080/10106049.2025.2572670 |
@@ -26,6 +26,8 @@
 
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
+| 2026 | GeoAI-powered crop recommendation system for sustainable agriculture: A comparative machine learning approach. |GeoAI-driven Earth Observation for Sustainable Development: Contemporary Advances & Emerging Opportunities across Scale. Elsevier. (_Under Review_)| 
+| 2026 | Machine Learning Model to Map and Predict the Susceptibility of a Landslide: A Case Study in Mountainous Terrain, Nepal|Landslide Science: Geospatial Advances in Monitoring, Modeling, and Management,Elsevier. (_Under Review_)|
 | 2026| Assessing wildfire severity and identifying hotspots using computational intelligence and image processing | *Computational Intelligence in Surveillance Systems Using Image Processing* – Elsevier | https://doi.org/10.1016/B978-0-443-36408-2.00003-5 |
 | 2025 | Deep Learning-Enhanced Flood Risk Mapping for Urban Planning and Disaster Mitigation in the Morang District, Nepal Himalaya | *The Himalaya Dilemma* – Springer | https://doi.org/10.1007/978-3-031-95083-4_21 |
 | 2022 | Time Series Analysis and Forecast of COVID-19 Pandemic | *Decision Sciences for COVID-19* – Springer | https://doi.org/10.1007/978-3-030-87019-5_6 |
