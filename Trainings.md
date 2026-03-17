@@ -128,3 +128,6 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 -  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
 -  AI and Machine Learning on Olympus/Great Learning
 -  Part 107 Small Uas Initial  Part 61 Pilots (ALC515), Part 107 Small Uas Initial  Part 61 Pilots (ALC451)
+
+### 🛠️  More webinars
+[Webinars](https://github.com/thapawan/thapawan/blob/main/Webinars.md)
