@@ -63,11 +63,56 @@ Welcome to my academic supervision portfolio! Below is a summary of graduate the
 
 ---
 
-## 🔬 Research Projects
+***
 
-Involved research projects:
+# 🔬 **Research & Professional Projects**
 
-- **Project 1 (NASA SWOT, GR29415):** River Flow Velocity, Discharge, and Channel Morphologic Data Acquisition and SWOT-enabled Sedimentation Investigation in the Mobile River Basin (USA) and the Gandaki River Basin (Nepal).
-- **Project 2 (Carolina Appalachian Research Center for the Environment):** Assessing the Impact of Hurricane Helene on River Dynamics in East Tennessee and Western North Carolina (Jan–Dec 2025).
-- **Project 3 (Aerial Mapping):** Aerial mapping of the Maskoke Lands in Coosa County, Alabama, to assist with ecologically-focused development and improvement efforts (Apr–Aug 2025).
-- **NASA Project GR 29315:** Conduct lake and river surveys (ADCP, YSI, ASD, HyCAT), fly drones (multispectral/hyperspectral), process data, and develop algorithms/tools.
+### **NASA & Hydrology / Remote Sensing Projects**
+
+*   **2023–2026 — NASA SWOT (GR29415):**  
+    River flow velocity, discharge measurement, channel morphology surveys, and SWOT-enabled sedimentation research across the **Mobile River Basin (USA)** and **Gandaki River Basin (Nepal)**.
+
+*   **2022–2025 — NASA Water Quality & UAV Sensing (GR29315):**  
+    Conducted integrated **lake and river surveys** (ADCP, YSI, ASD, HyCAT), UAV multispectral/hyperspectral flights, bathymetry, and algorithm/tool development for water‑quality prediction workflows.
+
+*   **2025 — USGS + CIROH (Advancing Water Quality Monitoring & Prediction):**  
+    Led field operations using **satellite + UAV remote sensing** to improve NGWOS monitoring and forecasting capabilities.
+
+*   **2023 — CIROH Hydrology Project:**  
+    Research on **channel roughness, river morphology, bankfull discharge, and hydraulic flood modeling (FIM)** using remote sensing and geospatial workflows.
+
+***
+
+### **Disaster, Climate, and River Dynamics Projects**
+
+*   **2025 — Carolina Appalachian Research Center for the Environment:**  
+    *Assessing the Impact of Hurricane Helene on River Dynamics in East Tennessee and Western North Carolina* (Jan–Dec 2025).
+
+*   **2022 — Water Quality & Flow Monitoring (USA/Nepal):**  
+    River and lake surveys for water quality, depth, flow velocity, and multispectral UAV workflows supporting climate‑hydrology assessments.
+
+***
+
+### **Aerial Mapping, Land Use, and Geospatial Planning**
+
+*   **2025 — Maskoke Lands UAV Mapping (Alabama, USA):**  
+    Aerial mapping in Coosa County to support ecological land‑planning and community improvement (Apr–Aug 2025).
+
+*   **2025 — Executive Consulting Engineering & Planner Pvt. Ltd.:**  
+    Senior Surveyor for **House Numbering & Street Addressing System and Digital Profile of BMC**—aerial and ground survey integration.
+
+*   **2024 — Shree R S Engineering Solution Pvt. Ltd.:**  
+    Senior Surveyor for the **Comprehensive Master Plan of Kathmandu Valley**, supporting geospatial analysis, land‑use planning, and field mapping.
+
+*   **2024 — Kalinchowk Rural Municipality (Nepal):**  
+    TOR and IEE support for **sand and stone extraction** management on the Tamakoshi River’s right bank.
+
+*   **2022 — GIS Specialist (Dhulikhel Municipality):**  
+    GIS Expert for the **DPR for Urban Regeneration in Historical Settlements** (RFP: 01/DPR/UR/TDF/MFCB/079/80).
+
+*   **2017–2021 — National Land Use Projects (Nepal):**  
+    Senior Surveyor / GIS Expert with RAAS, ADMC Engineering, NAXA, and partner firms.  
+    Delivered **land‑use mapping, geodatabases, cadastral integration, soil‑erosion modeling**, and national-scale spatial planning products.
+
+***
+
