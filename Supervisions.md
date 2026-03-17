@@ -69,10 +69,10 @@ Welcome to my academic supervision portfolio! Below is a summary of graduate the
 
 ### **NASA & Hydrology / Remote Sensing Projects**
 
-*   **2023–2026 — NASA SWOT (GR29415):**  
+*   **2023–2024 — NASA SWOT (GR29415):**  
     River flow velocity, discharge measurement, channel morphology surveys, and SWOT-enabled sedimentation research across the **Mobile River Basin (USA)** and **Gandaki River Basin (Nepal)**.
 
-*   **2022–2025 — NASA Water Quality & UAV Sensing (GR29315):**  
+*   **2022–2024 — NASA Water Quality & UAV Sensing (GR29315):**  
     Conducted integrated **lake and river surveys** (ADCP, YSI, ASD, HyCAT), UAV multispectral/hyperspectral flights, bathymetry, and algorithm/tool development for water‑quality prediction workflows.
 
 *   **2025 — USGS + CIROH (Advancing Water Quality Monitoring & Prediction):**  
