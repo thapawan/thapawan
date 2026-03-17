@@ -5,9 +5,12 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 ---
 ### 📅 Events (2026)
 - Accelerating Remote Sensing with Google Earth Engine, University of Natural Resources and Life Sciences Vienna, Google, BOKU University, March 31, 2026
+- Governance, Licensing & Ethics for Earth Intelligence, GEO Data and Knowledge Working Group, March 19, 2026
 - Long-Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts, University of Maryland-College Park, US, Friday 13 March 2026
 - Data Spaces & Ecosystems: Enabling Scalable Earth Intelligence, GEO Data and Knowledge Working Group, Mar 10, 2026
+- Webinar DAM BUSTERS, Dam Removal and Extreme Weather, Dr. Sarah Null, Utah State University, March 4, 2026
 - AI-Assisted Teaching with GitHub: A Faculty Workshop Series, Virtual, March 3, 10, 17 and 26, 2026
+- GIS Workshop 26 Feb 2026, University of Cambridge, ACARDIA, GIS Clinic
 - ISPRS WG III/9 (Geospatial Environment and Health Analytics) Webinar Series 2026, Feb 25, 2026
 - Remote Sensing of Permafrost Vulnerability and Geohazards, University of Alaska Fairbanks, USA, Feb 23, 2026
 - EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
