@@ -25,6 +25,14 @@ A curated overview of my academic, professional, and scientific society membersh
     *   *Diversity, Equity & Inclusion (DEI) Committee Member*, 2022–2024
 *   **American Geographical Society (AGRS)**
     *   *Member*, 2024–2026
+*   **Spatialnode**
+    *   *Member*, 2026
+*   **OpenStreetMap & YouthMappers (OSM)**
+    *   *Member & Contributor*, 2012- 2026
+*   **Pangeo (for open science recognition)**
+    *   *Contributor*, 2026     
+*   **Global Soil Erosion Mapping Initiative**
+    *   *Contributor*, 2025     
 
 ***
 
@@ -45,13 +53,13 @@ A curated overview of my academic, professional, and scientific society membersh
 
 *   **Alabama Water Institute (AWI)**
     *   *Affiliated Member*, 2022–2026
+*   **Mass Rivers Alliance**
+    *   *Participate*, 2026
 
 ***
 
 ## 📝 **Editorial & Scientific Committees**
 
-*   **Global Scientific Journals (GSJ)**
-    *   *Editorial Board Member*
 *   **International Scientific Council (ISC)**
     *   *Scientific Committee Member*
 
