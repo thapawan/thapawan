@@ -1,16 +1,84 @@
-👥 Mentoring & Community Engagement
+***
 
-1)	Mentoring365 Program — American Geophysical Union (AGU)
-  Active Mentor (2023–2026) — Supporting early-career scientists and professionals through structured guidance and networking.
-2) Tide Together Mentee Cohort — University of Alabama
-  2024–2025 Cohort — Engaged in peer and faculty mentoring for academic and professional development.
-3) Tide Together Mentee Cohort — University of Alabama
-  2024–2025 Cohort — Engaged in peer and faculty mentoring for academic and professional development.
-4) Student Mentorship in Geomatics Engineering
-  Mentored graduate, undergraduate, and diploma-level students — Focused on GIS, remote sensing, and geospatial technologies.
-5) Volunteering at the University of Alabama, Department of Geography and the Environment GeoAwareness Week, Nov 17-18, 2025. 
-6) Volunteering Lead Field Survey, Aerial mapping of the Maskoke Lands in Coosa County, Alabama, to assist ecologically focused development and improvement efforts, April- August 2025.
-7) Volunteering at the University of Alabama (university museums, May 2025) for the Moundville Affiliation Project.
-8) Volunteering for Lake and river surveys to collect water quality, bathymetry, and flow data using ADCP, YSI multiparameter sonde, ASD spectrometer, and HyCAT autonomous surface vehicle, fly drones to collect lake and river multispectral and hyperspectral data, GR29315.
-9) Mentoring Spatial Surveying Institute, Australia 2021-2022.
-10) Volunteering lead team for preparation of high-resolution orthophotography maps for landless and information mapping (2020, Belaka Municipality). 
+# 👥 **Mentoring & Community Engagement**
+
+I am deeply committed to expanding access to geospatial education, supporting early‑career scientists, and empowering underrepresented communities through mentorship, outreach, and volunteer fieldwork. My work spans the U.S., Nepal, and international platforms focused on geomatics, Earth science, and community development.
+
+***
+
+## 🌍 **Professional Mentorship**
+
+### **1) Mentoring365 Program — American Geophysical Union (AGU)**
+
+**Active Mentor (2023–2025)**  
+Supporting early‑career researchers and students through structured mentoring, career advice, research development support, and networking within the Earth and planetary sciences community.
+
+### **2) Geo Mentorship Initiative — Founder**
+
+**Empowering underserved, unheard, and underrepresented youth** with guidance, clarity, and confidence through **free**, compassionate, and practical mentorship.  
+Focus areas include GIS, remote sensing, UAV mapping, and academic/professional development.  
+🔗 **GitHub Repository:** <https://github.com/thapawan/Geo-Mentorship-Network>
+
+### **3) Spatial Surveying Institute, Australia**
+
+**Mentor (2021–2022)**  
+Guided students and early‑career professionals in surveying, GNSS workflows, geospatial analysis, and foundational geomatics engineering skills.
+
+### **4) Student Mentorship in Geomatics, Environmental Engineering**
+
+Mentored diploma, undergraduate, and graduate students in:
+
+*   Geomatics Engineering, Geospatial & Geoinformatics
+*   GIS & geodatabase development
+*   Remote sensing & UAV operations
+*   Surveying fundamentals
+*   Research skills & career planning
+
+***
+
+## 🎓 **University Mentoring & Academic Engagement**
+
+### **5) Tide Together Mentorship Program — University of Alabama**
+
+**2024–2025 Mentee Cohort**  
+Participated in a structured mentoring community supporting academic success, communication, personal development, and faculty‑student engagement.
+
+***
+
+## 🤝 **Community Outreach & Volunteer Work**
+
+### **6) GeoAwareness Week — University of Alabama**
+
+**Volunteer (Nov 17–18, 2025)**  
+Engaged in public activities promoting geography, geospatial science, and community awareness of Earth systems.
+
+### **7) Moundville Affiliation Project — University Museums (UA)**
+
+**Volunteer (May 2025)**  
+Contributed to community heritage and cultural documentation efforts.
+
+### **8) Maskoke Lands Mapping (Coosa County, Alabama)**
+
+**Lead Volunteer & Field Survey Coordinator (Apr–Aug 2025)**  
+Directed UAV mapping and ground survey operations to support ecologically focused land‑planning and community resource development for the Maskoke tribal community.
+
+### **9) Volunteer Hydrology & Remote Sensing Surveys (GR29315)**
+
+Assisted with:
+
+*   ADCP flow measurements
+*   Water‑quality sampling (YSI multiparameter sonde)
+*   Bathymetric surveys
+*   ASD spectroradiometer measurements
+*   UAV multispectral/hyperspectral data collection
+*   HyCAT autonomous surface vehicle missions
+
+### **10) Orthophotography for Community Support — Belaka Municipality, Nepal**
+
+**Volunteer Team Lead (2020)**  
+Led the preparation of high‑resolution orthophoto maps to support landless population documentation, municipal planning, and equitable resource allocation.
+
+### **11) Chepang & Indigenous Mapping Project — YouthMappers (Technical Support & Advisor)**
+Provided technical guidance, capacity‑building, and project design support for YouthMappers' indigenous community mapping initiative in Nepal.
+Focused on empowering Chepang and other Indigenous youth and communities.
+***
