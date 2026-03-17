@@ -103,6 +103,8 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 #### 2026
 - High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
+- ByteBoost 2.0: Supercharge Your Research with Cutting-Edge Testbeds, Stony Brook University, March 25, Apr 8 & 22, 2026
+- Building a Data Pipeline with AI (a Claude Code Demo), NAIRR Pilot Webinar Marech 26, 2026
 - IOI Ocean Academy (Black & Mediterranean Seas), Sustainable Coastal Tourism Development and Ocean Governance, 24 February - 17 March 2026
 - EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
 - HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026
@@ -118,7 +120,11 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 - **HydroLearn Courses** — Snow and Climate, Culvert Design using HEC-RAS, Frequency Analysis in Hydrology, and Introduction to Floodplain Analysis
 - **EO College** — Introduction to Machine Learning for Earth Observation
 - **GIS and Earth Observation University** — Sentinel Hub Webinar Series course
+- **NASA classes**  — Open Science Essentials, Open Science 101, Virtual Field Tour
+- **NASA ARSET**  — Fundamental of Remote Sensing, Hyperspectral Data for Land and Coastal Systems
+- **Geoversity**  — Introduction to Geowebapp building with Open Source Tools, UAVs in Precision Agriculture
+- **EarthScope Consortium**  — Intro to GMT for Geophysics
 - **Other Platforms**
 -  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
--  NASA classes: Open Science Essentials and Open Science 101
 -  AI and Machine Learning on Olympus/Great Learning
+-  Part 107 Small Uas Initial  Part 61 Pilots (ALC515), Part 107 Small Uas Initial  Part 61 Pilots (ALC451)
