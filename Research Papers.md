@@ -7,7 +7,7 @@
 |------|-------|---------|------------|
 | 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Under Submission, Q1, IF: 4.8) | — |
 | 2026 | Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas | *Progress in Disaster Science* (Under Review, Q1, IF: 3.8) | — |
-| 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q1, IF: 2.8) | — |
+| 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q2, IF: 2.8) | — |
 | 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | https://doi.org/10.1002/esp.70158 |
 | 2025 | Drone in hyperspectral remote sensing data analytics: techniques and applications | *Geocarto International* (Q1, IF: 3.5) | https://doi.org/10.1080/10106049.2025.2572670 |
 | 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | https://doi.org/10.1016/j.nexres.2025.100207 |
