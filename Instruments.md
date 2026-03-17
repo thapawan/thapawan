@@ -11,7 +11,7 @@
 |Theodolite  |Horizontal & vertical angle measurement |Standard optical or digital theodolite |
 |Leveling | Elevation measurement & leveling operations |Automatic/Digital Level (DS05/DS03 / NA2) |
 |Compass | Orientation, bearings, basic navigation |Brunton or Suunto Survey |
-|Surveying Tape| Ground distance measurement30m / 50m / 100m |fiberglass measuring tape |
+|Surveying Tape| Ground distance measurement30m / 50m / 100m |Fiberglass measuring tape |
 |Rangefinder (Laser EDM)| Long‑range distance measurement |LaserAce 1000 / Trupoint 300 |
 
 | Category | Instrument |
