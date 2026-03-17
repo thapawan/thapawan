@@ -18,6 +18,8 @@
 | 11    | AICOVID19 (Book Chapter Review)                                                               | 1                  | Sub‑reviewer / External Reviewer |
 | 12    | DS‑COVID19 (Edited Volume / Book Chapter Review)                                              | 2                  | Sub‑reviewer / External Reviewer |
 | 13    | Environmental Systems Research                                                                | 6                  | Reviewer                         |
+| 14    | Academia Earth and Planetary Science                                                          | 1                  | Reviewer                         |
+| 15    | International Journal of Geoinformatics                                                       | 1                  | Reviewer                         |
 
 </details>
 
