@@ -23,10 +23,9 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
-
-| Feb 17, 2026 |Introduction to a machine learning model to estimate water quality parameters based on satellite observations | NASA ARSET |
+| Feb 17, 2026 | Introduction to a machine learning model to estimate water quality parameters based on satellite observations | NASA ARSET |
 | Feb 10, 2026 | Introduction and Demonstration of STREAM | NASA ARSET |
-| Feb 5, 2026 | Machine Learning for Remote Sensing |
+| Feb 5, 2026 | Machine Learning for Remote Sensing | – |
 | Oct 23, 30 & Nov 6, 2025 | Spaceborne Lidar for Monitoring Vegetation Structure & Biomass using GEDI | Virtual – 11:00 AM–1:00 PM |
 | July 28–31, 2025 | WaterSoftHack | Machine Learning & Cyberinfrastructure for Water Science – Virtual |
 | June 4–7, 2024 | HydroLearn CIROH Virtual Summer Hackathon & Workshop | Synchronous Online – Hydrology & Water Resources Engineering |
