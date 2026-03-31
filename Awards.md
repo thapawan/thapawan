@@ -1,5 +1,8 @@
 ## 🏆 Awards & Honors
 
+### 🌍 Travel Award – University of Colorado Boulder, NAIRR Pilot affiliated workshop
+AI Unlocked: Empowering Higher Education Through Research and Discovery — *2026*
+
 ### 🎓 Graduate Council Fellowship 
 Awarded for exceptional academic performance and research excellence — *2026*
 
