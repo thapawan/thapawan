@@ -8,23 +8,27 @@ I am deeply committed to expanding access to geospatial education, supporting ea
 
 ## 🌍 **Professional Mentorship**
 
-### **1) Mentoring365 Program — American Geophysical Union (AGU)**
+### **1) Social Media Coordinator & Board Member — International Society of Photogrammetry and Remote Sensing (ISPRS)**
+**(2026–Present)**  
+Contribute to global student and early‑career engagement by coordinating science communication, promoting geospatial research, mentoring activities, and international opportunities across digital platforms. Collaborate with the ISPRS SC Board of Directors to strengthen outreach, inclusivity, and visibility of student‑led initiatives in photogrammetry, remote sensing, GIS, and geospatial science.
 
-**Active Mentor (2023–2025)**  
+### **2) Mentoring365 Program — American Geophysical Union (AGU)**
+
+**Mentor (2023–2025)**  
 Supporting early‑career researchers and students through structured mentoring, career advice, research development support, and networking within the Earth and planetary sciences community.
 
-### **2) Geo Mentorship Initiative — Founder**
+### **3) Geo Mentorship Initiative — Founder**
 
 **Empowering underserved, unheard, and underrepresented youth** with guidance, clarity, and confidence through **free**, compassionate, and practical mentorship.  
 Focus areas include GIS, remote sensing, UAV mapping, and academic/professional development.  
 🔗 **GitHub Repository:** <https://github.com/thapawan/Geo-Mentorship-Network>
 
-### **3) Spatial Surveying Institute, Australia**
+### **4) Spatial Surveying Institute, Australia**
 
 **Mentor (2021–2022)**  
 Guided students and early‑career professionals in surveying, GNSS workflows, geospatial analysis, and foundational geomatics engineering skills.
 
-### **4) Student Mentorship in Geomatics, Environmental Engineering**
+### **5) Student Mentorship in Geomatics, Environmental Engineering**
 
 Mentored diploma, undergraduate, and graduate students in:
 
@@ -38,7 +42,7 @@ Mentored diploma, undergraduate, and graduate students in:
 
 ## 🎓 **University Mentoring & Academic Engagement**
 
-### **5) Tide Together Mentorship Program — University of Alabama**
+### **6) Tide Together Mentorship Program — University of Alabama**
 
 **2024–2025 Mentee Cohort**  
 Participated in a structured mentoring community supporting academic success, communication, personal development, and faculty‑student engagement.
@@ -47,22 +51,22 @@ Participated in a structured mentoring community supporting academic success, co
 
 ## 🤝 **Community Outreach & Volunteer Work**
 
-### **6) GeoAwareness Week — University of Alabama**
+### **7) GeoAwareness Week — University of Alabama**
 
 **Volunteer (Nov 17–18, 2025)**  
 Engaged in public activities promoting geography, geospatial science, and community awareness of Earth systems.
 
-### **7) Moundville Affiliation Project — University Museums (UA)**
+### **8) Moundville Affiliation Project — University Museums (UA)**
 
 **Volunteer (May 2025)**  
 Contributed to community heritage and cultural documentation efforts.
 
-### **8) Maskoke Lands Mapping (Coosa County, Alabama)**
+### **9) Maskoke Lands Mapping (Coosa County, Alabama)**
 
 **Lead Volunteer & Field Survey Coordinator (Apr–Aug 2025)**  
 Directed UAV mapping and ground survey operations to support ecologically focused land‑planning and community resource development for the Maskoke tribal community.
 
-### **9) Volunteer Hydrology & Remote Sensing Surveys (GR29315)**
+### **10) Volunteer Hydrology & Remote Sensing Surveys (GR29315)**
 
 Assisted with:
 
@@ -73,12 +77,12 @@ Assisted with:
 *   UAV multispectral/hyperspectral data collection
 *   HyCAT autonomous surface vehicle missions
 
-### **10) Orthophotography for Community Support — Belaka Municipality, Nepal**
+### **11) Orthophotography for Community Support — Belaka Municipality, Nepal**
 
 **Volunteer Team Lead (2020)**  
 Led the preparation of high‑resolution orthophoto maps to support landless population documentation, municipal planning, and equitable resource allocation.
 
-### **11) Chepang & Indigenous Mapping Project — YouthMappers (Technical Support & Advisor)**
+### **12) Chepang & Indigenous Mapping Project — YouthMappers (Technical Support & Advisor)**
 Provided technical guidance, capacity‑building, and project design support for YouthMappers' indigenous community mapping initiative in Nepal.
 Focused on empowering Chepang and other Indigenous youth and communities.
 ***
