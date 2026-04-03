@@ -6,7 +6,7 @@ AI Unlocked: Empowering Higher Education Through Research and Discovery — *202
 ### 🎓 Graduate Council Fellowship 
 Awarded for exceptional academic performance and research excellence — *2026*
 
-### 🎓 Outstanding Doctoral Graduate Research Award
+### 🎓 Outstanding Graduate Research Award PhD
 Awarded for excellence in doctoral research and scholarly contribution  — *2026*
 
 ### 🎓 NASA/ASU Infiniscope Training  
