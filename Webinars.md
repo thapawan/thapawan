@@ -18,8 +18,6 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - Remote Sensing of Permafrost Vulnerability and Geohazards, Feb 23, 2026 10:00 AM, by Simon Zwieback University of Alaska Fairbanks, USA
 - HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026
 - “Advancing Open Knowledge to Earth Intelligence” webinar 1 The GEO Dialogue Series 2026 builds on the 2025 GEO Onboarding Webinars for GEO Work Progremme Activities and drives GEO's mission toward equitable, actionable Earth Intelligence for All, Jan 22, 2026 08:00 AM 
-  
-  # This webinar series takes place from 2:00-3:00 PM ET and includes these sessions:
  - January 28 - Current Research in Hydrogeodesy and Hydroseismology
  -  February 11 - Challenges and Opportunities in Data Sharing & Critical Zone Science
  -  February 25 - Innovative Technical Tools and Methods
@@ -121,3 +119,4 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - GRSS Standard for Earth Observations Technical Committee member
 - CAUSHI
 - CIROH
+- FIG
