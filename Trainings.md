@@ -23,6 +23,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
+| Mar 15, 2026 | Access NAIRR AI Workshops | ACCESS/NAIRR, NSF and University of Colorado Boulder |
 | Feb 17, 2026 | Introduction to a machine learning model to estimate water quality parameters based on satellite observations | NASA ARSET |
 | Feb 10, 2026 | Introduction and Demonstration of STREAM | NASA ARSET |
 | Feb 5, 2026 | Machine Learning for Remote Sensing | – |
