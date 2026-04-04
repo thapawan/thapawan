@@ -103,6 +103,10 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 #### 2026
 - High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
+- Developing Sustainable Earth Science Applications, NASA ARSET Training Courses, April, 2026
+- Monitoring Water Quality in Lakes and Coastal Regions Using STREAM NASA ARSET Training Courses, March, 2026
+- Hyperspectral Data for Land and Coastal Systems NASA ARSET Training Courses, March, 2026
+- Fundamentals of Remote Sensing NASA ARSET Training Courses, March, 2026
 - ByteBoost 2.0: Supercharge Your Research with Cutting-Edge Testbeds, Stony Brook University, March 25, Apr 8 & 22, 2026
 - Building a Data Pipeline with AI (a Claude Code Demo), NAIRR Pilot Webinar Marech 26, 2026
 - IOI Ocean Academy (Black & Mediterranean Seas), Sustainable Coastal Tourism Development and Ocean Governance, 24 February - 17 March 2026
