@@ -1,7 +1,7 @@
 ## 📚 Publications
 
 <details>
-<summary>📄 <b>Refereed Articles</b></summary>
+<summary>📄 <b>Peer Reviewed Articles</b></summary>
 
 | Year | Title | Journal | DOI / Link |
 |------|-------|---------|------------|
@@ -23,7 +23,7 @@
 ---
 
 <details>
-<summary>📚 <b>Refereed Book Chapters</b></summary>
+<summary>📚 <b>Peer Reviewed Book Chapters</b></summary>
 
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
@@ -56,7 +56,7 @@
 ---
 
 <details>
-<summary>📰 <b>Non-refereed Articles & Reports</b></summary>
+<summary>📰 <b>Refereed/Non-Refereed Articles & Reports</b></summary>
 
 | Year | Title | Source | Link |
 |------|-------|--------|------|
