@@ -14,7 +14,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 1. THAPA P. (2017). Applying Direction Map Criteria to a Complex Large-Scale Environment. *Institute of Geoinformatics (Ifgi), Muenster, Germany.*
 2. THAPA P. (2019). Observed and Perceived Climate Change Analysis in the Terai Region, Nepal. *5th Graduate Conference on Environment and SDGs, Dhulikhel.*
 3. THAPA P., Gautam A. (2021). Potential of Free and Open-Source Software for Education in Developing Countries. *FOSS4G Asia 2021, Dhulikhel, Nepal.*
-4. 4.	Thapa N., THAPA P., Pote, R. (2022) Web Map Application for Preliminary Flood Damage Assessment using Google Earth Engine- A Case Study of Flood in Melamchi River, Melamchi and Indrawati Municipality, Nepal, *9th National Conference on Science and Technology “Science for Society and Innovation for Prosperity, Jun 26-28, 2022.*
+4. Thapa N., THAPA P., Pote, R. (2022) Web Map Application for Preliminary Flood Damage Assessment using Google Earth Engine- A Case Study of Flood in Melamchi River, Melamchi and Indrawati Municipality, Nepal, *9th National Conference on Science and Technology “Science for Society and Innovation for Prosperity, Jun 26-28, 2022.*
 5. Bhandari, R., Liu, H., Cohen, S., Wang, L., Song, S., THAPA P. (2022). Drone video image stabilization and tracer densification for deriving river flow velocity field with Large-Scale Particle Image Velocimetry technique. *AAG Annual Meeting, Denver, CO.*
 6. THAPA P., Liu, H., Wang, L., Bhandari, R. (2022). Derivation of River Channel Morphology Information from Time Series Satellite Images. *AAG Annual Meeting, Denver, CO.*
 7. Thapa N., THAPA P., Pote R. (2023). Mapping Debris Flow in Challenging Terrains Using Remote Sensing and Google Earth Engine. *AGU 23, San Francisco, CA.*
@@ -41,8 +41,8 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 
 ---
 ### Number of Talks: n=2
-2.	Invited Talks, Building A Resilient Churia Region in Nepal (BRCRN) Training of Trainers' Workshop on Climate Resilient Land Use Planning and Use of GIS/RS Tools, Sept 2021. 
-1.	Virtual Presentation about computer software/programming application in Geomatics Engineering, IB Diploma Program by the Switzerland-based International Baccalaureate Organization (IBO), Ullens School, Lalitpur, Nepal, April 30, 2021.
+1.	Invited Talks, Building A Resilient Churia Region in Nepal (BRCRN) Training of Trainers' Workshop on Climate Resilient Land Use Planning and Use of GIS/RS Tools, Sept 2021. 
+2.	Virtual Presentation about computer software/programming application in Geomatics Engineering, IB Diploma Program by the Switzerland-based International Baccalaureate Organization (IBO), Ullens School, Lalitpur, Nepal, April 30, 2021.
 ### Number of Technical Services: n=1
 1.	Technical Expert Committee, Virtual Conference on Disaster Risk Reduction, Mar 2021;  https://vcdrr.nitk.ac.in/committee.html.
 
