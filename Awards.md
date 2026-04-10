@@ -28,7 +28,7 @@ CIROH HydroLearn, Vermont, USA
 - AAG Annual Meeting — $1,000 (*Spring 2022*)
 
 ### 🏅 Finalist – GISS Student Honors Paper Competition  
-AAG Annual Meeting 2025 — $200
+Geographic Information Science and Systems Specialty (GISS) Group AAG Annual Meeting 2025 — $200
 
 ### 🔬 HydroLearn Fellowship  
 CIROH Development Conference & HydroLearn Events  
@@ -38,8 +38,7 @@ CIROH Development Conference & HydroLearn Events
 AAG Remote Sensing Specialty 2023 Group Student Illustrated Paper Competition
 
 ### 🚀 Graduate Research Funding  
-NASA Project (GR29315 & GR29415) — $8,000  
-*May 16–Aug 15, 2023*
+NASA Project (GR29315 & GR29415) — $8,000  *May 16–Aug 15, 2023*
 
 ### 🏆 Best Presentation  
 Management of Training (MoT) Seminars Kathmandu University School of Management — *March–April 2022*
