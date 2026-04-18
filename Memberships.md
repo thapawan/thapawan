@@ -13,7 +13,7 @@ A curated overview of my academic, professional, and scientific society membersh
 *   **American Geophysical Union (AGU) Thriving Earth Exchange**
      * Community fellow and Community Earth Scientist
 *   **American Geophysical Union (AGU) AGU Circles – Peer Cohort Program**
-     * Member*, 2026
+     * Member, 2026
 *   **American Geophysical Union (AGU)**
     *   *Mentoring 365 Program Participant*, 2023–2025
     *   *General Member*, 2023–2026
