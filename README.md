@@ -64,7 +64,7 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 [![Instruments](https://img.shields.io/badge/Instruments-🛠️-orange)](https://github.com/thapawan/thapawan/blob/main/Instruments.md)
 [![Judges](https://img.shields.io/badge/Judges-⚖️-purple)](https://github.com/thapawan/thapawan/blob/main/Judges.md)
 [![Licenses](https://img.shields.io/badge/Licenses-📜-teal)](https://github.com/thapawan/thapawan/blob/main/Licenses.md)
-[![Memberships](https://img.shields.io/badge/Memberships-👥-red)](https://github.com/thapawan/thapawan/tree/main/Membership)
+[![Memberships](https://img.shields.io/badge/Memberships-👥-red)](https://github.com/thapawan/thapawan/blob/main/Memberships.md)
 [![Mentorships](https://img.shields.io/badge/Mentorships-👥-blue)](https://github.com/thapawan/thapawan/blob/main/Mentors_Mentee.md)
 [![Publications](https://img.shields.io/badge/Publications-📑-darkblue)](https://github.com/thapawan/thapawan/blob/main/Research%20Papers.md)
 [![Blogs](https://img.shields.io/badge/Blogs-📑-darkblue)](https://www.blogger.com/profile/00763349998740801159)
