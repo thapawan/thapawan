@@ -7,6 +7,16 @@
 
 | Certification                                                                 | Institution                                | Date       | Mode   |
 |-------------------------------------------------------------------------------|--------------------------------------------|------------|--------|
+| Developing Sustainable Earth Science Applications                              | NASA's Applied Remote Sensing Trainings (ARSET) Program                             | Apr 2026   | Online |
+| Hyperspectral Data for Land and Coastal Systems                             | NASA's Applied Remote Sensing Trainings (ARSET) Program                                 | Mar 2026   | Online |
+| Fundamentals of Remote Sensing                             | NASA's Applied Remote Sensing Trainings (ARSET) Program                                 | Feb 2026   | Online |
+| Sentinel Hub Webinar Series course                              | GIS and Earth Observation University                            | Feb 2026   | Online |
+| NASA Open Science Essentials                              | National Aeronautics and Space Administration (NASA)                           | Jan 2026   | Online |
+| UAVs in Precision Agriculture                              | Geoversity                            | Jan 2026   | Online |
+| INTRODUCTION TO GEOWEBAPP BUILDING WITH OPEN SOURCE TOOLS                              | Geoversity                           | May 2024  | Online |
+| Part 107 Small Uas Initial  Part 61 Pilots (ALC451)                         | Federal Aviation Administration (FAA)                         | May 2024   | Online |
+| Part 107 Small Uas Initial  Part 61 Pilots (ALC515)                           | Federal Aviation Administration (FAA)                          | Apr 2024   | Online |
+| MODIS to VIIRS Transition for Air Quality Applications                         | NASA's Applied Remote Sensing Trainings (ARSET) Program                          | Oct 2020   | Online |
 | Java Programming: Solving Problems with Software                              | Duke University                             | Aug 2020   | Online |
 | Cloud Computing Basics (Cloud 101)                                            | LearnQuest                                  | Aug 2020   | Online |
 | Developing AI Applications on Azure                                           | LearnQuest                                  | Aug 2020   | Online |
