@@ -44,11 +44,16 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 ## 📦 Packages
 
 - **[MMAT](https://github.com/thapawan/rasterMedialAxis/tree/main):** Python package for Medial Axis Transform.
-- **[MMATCWE](https://github.com/thapawan/raster_medial_axis):** Another robust Medial Axis Transform Python package.
+- **[MMATCWE](https://github.com/thapawan/raster_medial_axis):** Medial Axis Transform Python package.
+- **[LPCC](https://github.com/thapawan/LongitudinalProfileConstrainedCross-sections):** Python tool that extracts elevation cross-sections.
+- **[CSEV](https://github.com/thapawan/CrossSectionsExtractionVisualization):** Tool automates extracting cross-sections with their horizontal distance and elevation.
+- **[BIC](https://github.com/thapawan/bayesImageCause):** R package for Bayesian Causal Inference with Image Data. .
+- **[patchseg](https://github.com/thapawan/patchseg-Lightweight-patch-based-segmentation-for-geoscience-images):** Python module for segmenting grains, clasts, and particles in large images.
 
 ## 🌐 Applications
 
 - **[MATGlobal](https://ee-pawanthapa42.projects.earthengine.app/view/matglobal):** Global Medial Axis Transform application.
+- **[FRCF](https://skilful-boulder-440618-e7.projects.earthengine.app/view/flood-resilience):** Framework for data-driven classification of flood resilience.
 - **[MATCW](https://meanderclassify.users.earthengine.app/view/matcw):** Meander classification web application.
 - **[MCM](https://ee-pawanthapa42.projects.earthengine.app/view/mcw):** Meander classification model.
 - **[SlopeCurvature](https://meanderclassify.users.earthengine.app/view/slopecurvature):** Slope and curvature analysis tool.
