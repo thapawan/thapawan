@@ -20,6 +20,8 @@
 | 13    | Environmental Systems Research                                                                | 6                  | Reviewer                         |
 | 14    | Academia Earth and Planetary Science                                                          | 1                  | Reviewer                         |
 | 15    | International Journal of Geoinformatics                                                       | 1                  | Reviewer                         |
+| 16    | Journal of Hydrology: Regional Studies                                                        | 1                  | Reviewer                         |
+| 17    | International Journal of Image and Data Fusion                                                | 1                  | Reviewer                         |
 
 </details>
 
