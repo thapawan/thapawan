@@ -1,5 +1,8 @@
 ## 🏆 Awards & Honors
 
+### 🌍 Travel Award – University of Illinois Urbana‑Champaign, NSF‑funded
+I‑GUIDE Summer School 2026: Spatial AI and Convergence Science — *2026*
+
 ### 🌍 Travel Award – University of Colorado Boulder, NAIRR Pilot affiliated workshop
 AI Unlocked: Empowering Higher Education Through Research and Discovery — *2026*
 
