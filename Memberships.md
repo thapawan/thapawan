@@ -8,6 +8,8 @@ A curated overview of my academic, professional, and scientific society membersh
 
 ### **🌐 Geoscience & Geography Societies**
 
+*   **American Society for Photogrammetry and Remote Sensing (ASPRS)**
+      * Member 2026
 *   **United States Geospatial Intelligence Foundation (USGIF)**
       * Member 2026
 *   **American Geophysical Union (AGU) Thriving Earth Exchange**
