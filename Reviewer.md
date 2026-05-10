@@ -8,7 +8,7 @@
 | 1     | International Conference on Artificial Intelligence, Computer, Data Sciences and Applications | 2                  | Reviewer                         |
 | 2     | AGU Fall Meeting 2025 – First-Time Presenter Feedback Program                                 | 1                  | Reviewer                         |
 | 3     | Geography Compass – Wiley                                                                     | 1                  | Reviewer                         |
-| 4     | IEEE Transactions on Geoscience and Remote Sensing                                            | 2                  | Reviewer                         |
+| 4     | IEEE Transactions on Geoscience and Remote Sensing                                            | 3                  | Reviewer                         |
 | 5     | IEEE Conference Paper                                                                         | 1                  | Reviewer                         |
 | 6     | TenSymp 2025 – IEEE                                                                           | 2                  | Reviewer                         |
 | 7     | Journal of Natural Hazards – Springer Nature                                                  | 1                  | Reviewer                         |
