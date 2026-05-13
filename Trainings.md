@@ -23,6 +23,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
+| May 12-13, 2026 | Harmonized Landsat and Sentinel-2 (HLS) dataset | NASA’s Satellite Needs Working Group Implementation Team (NSITE) and University of Alabama Huntsville|
 | Mar 15, 2026 | Access NAIRR AI Workshops | ACCESS/NAIRR, NSF and University of Colorado Boulder |
 | Feb 17, 2026 | Introduction to a machine learning model to estimate water quality parameters based on satellite observations | NASA ARSET |
 | Feb 10, 2026 | Introduction and Demonstration of STREAM | NASA ARSET |
@@ -58,6 +59,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** |
 |----------|-----------|
+| May 15, 2026 | PhD Symposium: Pathways Beyond Academia|
 | Jan 26, 2026 | Graduate School Thesis and Dissertation |
 | Sept 26, 2024 | GTA Training: Effective PowerPoint |
 | Nov 6, 2024 | GTA Training: Upgrading |
@@ -89,6 +91,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** |
 |----------|-----------|
+| July 13–17, 2026| I‑GUIDE Summer School – University of Illinois Urbana‑Champaign, USA |
 | Dec 10–11, 2019 | International Workshop on Capacity Building & Education Outreach in Advanced Geospatial Technologies |
 | July 1–7, 2019 | Summer School – Wuhan University, China |
 | Mar 11–22, 2019 | Instructional Skills (IS-2) – TITI under CTEVT |
