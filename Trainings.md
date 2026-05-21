@@ -26,6 +26,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | September 21-25, 2026 | Applied Geoinformatics for Society and Environment 2026, Kwame Nkrumah University of Science & Technology (KNUST), Kumasi, Ghana| AGSE Virtual |
 |June 8th 2026 - August 28th, 2026| Seismology Skill Building Workshop (SSBW) | ESA Virtual |
 | June 3-5, 2026| AI Unlocked Workshop ACCESS Support Team and NAIRR Pilot User Experience Working Group, Denver, USA| NSF ACCESS & NAIRR |
+| May 18-20, June 1, 2026 | CAUSHI Data Publishing Program Virtual | CAUSHI |
 | May 21 & 29, 2026| Estimating Biomass and Change with GEDI and the OBIWAN API | NASA ARSET |
 | May 19 & 20, 2026 | UF/FL-ASPRS Spring 2026 Geospatial Workshop | ASPRS |
 | May 12-13, 2026 | Harmonized Landsat and Sentinel-2 (HLS) dataset | NASA’s Satellite Needs Working Group Implementation Team (NSITE) and University of Alabama Huntsville|
