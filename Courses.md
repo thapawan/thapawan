@@ -16,7 +16,17 @@ My teaching philosophy emphasizes **experiential learning, geospatial technologi
 - 🌍 **GY 102: Earth Surface Processes (UG)**  
   Focus on geomorphology, hydrology, and landform evolution.
 
-Notes: Support for lab of GIS, UAVs, Remote Sensing, and Field Survey of land, aerial and water.
+-  **Head Teaching Assistant**
+  GY 101: Atmospheric Processes & Patterns — Spring & Fall 2024.
+
+- **Guest / Proxy Instructor**
+  Delivered substitute lectures and laboratory instruction for other Teaching Assistant (Reihaneh Zarrabi, Madi Reiser, Shahriar Abdullah).
+
+- **Course Section Coordination**
+  Managed instructional transition and grading responsibilities between sections GY 101‑029 and GY 101‑010.
+  Led laboratory sections, supported lectures, graded assignments, and coordinated instructional activities.
+
+Notes: Support for lab of GIS, UAVs, Remote Sensing, Digital Terrain Modelling and Field Survey of land, aerial and water.
 </details>
 
 ---
