@@ -4,6 +4,9 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 
 ---
 ### 📅 Events (2026)
+- Celebrate Global Accessibility Awareness Day, University of Alabama, May 21, 2026
+- Beyond AI Detection: The Mosaic Approach to Responsible AI in Academia, May 21, 2026  
+- GeoAI That Works: Turning Geospatial AI Hype into Real ROI, May 13, 2026
 - Accelerating Remote Sensing with Google Earth Engine, University of Natural Resources and Life Sciences Vienna, Google, BOKU University, March 31, 2026
 - Governance, Licensing & Ethics for Earth Intelligence, GEO Data and Knowledge Working Group, March 19, 2026
 - Long-Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts, University of Maryland-College Park, US, Friday 13 March 2026
@@ -120,3 +123,7 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - CAUSHI
 - CIROH
 - FIG
+- OSM YouthMappers
+- ESRI
+- ASPRS
+- UCGIS
