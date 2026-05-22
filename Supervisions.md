@@ -63,7 +63,6 @@ Welcome to my academic supervision portfolio! Below is a summary of graduate the
 
 ---
 
-***
 
 # 🔬 **Research & Professional Projects**
 
