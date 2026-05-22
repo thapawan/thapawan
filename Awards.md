@@ -1,5 +1,8 @@
 ## 🏆 Awards & Honors
 
+### 🌍 UCGIS Student Travel Award -  University of Maryland, College Park
+UCGIS Symposium AI Everywhere  — *2026*
+
 ### 🌍 Travel Award – University of Illinois Urbana‑Champaign, NSF‑funded
 I‑GUIDE Summer School 2026: Spatial AI and Convergence Science — *2026*
 
