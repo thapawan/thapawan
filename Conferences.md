@@ -6,7 +6,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 
 ### 📊 Summary
 - **Number of Oral Conference Presentations:** 15
-- **Number of Poster Presentations:** 8
+- **Number of Poster Presentations:** 10
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 
 ---
 
-### 🖼️ Poster Presentations (n=8)
+### 🖼️ Poster Presentations (n=10)
 1. THAPA P., Thapa, M. (2022) Feasibility study of using uncrewed aerial vehicles to deliver COVID-19 vaccines in geographically inaccessible areas of Nepal, 9th National Conference on Science and Technology “Science for Society and Innovation for Prosperity, Jun 26-28, 2022.
 2. THAPA P., Liu, H., Wang, L., Bhandari, R. (2022). River Channel Morphology Observations from Space. *Alabama Water Institute Symposium, Tuscaloosa, AL.*
 3. THAPA P., Liu, H., Wang, L., Cohen, S., Tian, D., Song, S. (2023). Phased Coded Disk Algorithm for Automation of River Width Extraction from Remotely Sensed Imagery. *AGU Annual Meeting.*
@@ -38,6 +38,8 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 6. Jihee, L., Liu, H., Cohen, S., Wang, L., THAPA P. (2024). UAV-based Velocimetry Techniques for stream flow velocity field: comparison of NIR with traditional natural color video camera. *Water Observing Technology Forum, Tuscaloosa, AL.*
 7. THAPA P. (2025). Integrating Climate Change into Culvert Analysis. *DevCon 2025, Vermont, USA.*
 8. Thapa N., THAPA P., Thapa M. (2025). Cracking the Sediment Code: A Novel Spectral-Topographic Fusion Approach for High-Accuracy Glacier Lake Outburst Flash Flood Mapping. *AGU Annual Meeting 2025.*
+9. THAPA P. (2026) Poster Presentation “Scalable Detection and Modeling of Soil Erosion Using Multi Source Remote Sensing and High Performance Computing Testbeds”, ByteBoost 2026, Pittsburgh Supercomputing Center, Pittsburgh, PA, United States, August 3-7, 2026.
+10.	THAPA P. (2026) Poster Presentation “Land Degradation Findings and Restoration Challenges in the 21st Century: A Spatial Monitoring and Reporting Approach”,  1st International Conference on Land Degradation and Restoration. Virtual, Valencia, July 20th -26th, 2026.
 
 ---
 ### Number of Talks: n=2
