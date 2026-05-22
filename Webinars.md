@@ -67,7 +67,6 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - **Early Career Researcher Spotlight #1** — Oct 28, 11:00 AM–12:00 PM ET  
 - **Data Science Meets Geoscience: Rock Weathering Calculations** — Oct 24, 10:00 AM–12:00 PM
 - **From Efficient Foundation Models to AI Agents for Foundation Model Recommendation to Advance Earth Observation** - Oct 16, 8-9:00 am 
-  👩🏻‍💻 *Speaker:* Prof. Begüm Demir, Technische Universität Berlin  🏢 *Sponsored by:* IEEE GRSS Germany Chapter Webinars  
 
 #### July 2025
 1. ISPRS WG III/3 (Active Microwave Remote Sensing) with ISPRS SC — Jul 9, 2025  
@@ -96,7 +95,6 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 13. Navigating Careers and Futures During Uncertain Times — Feb 7, 2025, 2:00 PM–2:45 PM ET  
 14. Publisher in Residence - Introduction to Academic Publishing — Feb 13, 2025, 12:00 PM CT  
 15. Near-Real-Time Wildfire Monitoring with Multi-Sensor Earth Observation and Deep Learning — Feb 26, 2025  
-   *Speaker:* Prof. Yifang Ban, KTH Royal Institute of Technology  
 
 #### January 2025
 16. Networking for Career Success from Graduate School — Jan 23, 2025, Virtual, 1:00 PM  
@@ -115,7 +113,7 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 ---
 
 ### 🏢 Sponsoring Organizations
-- IEEE GRSS Germany Chapter
+- IEEE GRSS
 - ISPRS WG III/3 & ISPRS Student Consortium
 - GOFC-GOLD SCERIN
 - NASA ARSET
