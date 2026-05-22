@@ -9,7 +9,18 @@
 
 ## 📝 Exam Proctoring Experience
 
-**Exam Proctor, GY 101:**
+**Exam Proctor, GY 101**
 - March 5, April 9, April 17 & 27, 2026 — Lloyd Hall 38
 - February 6 and March 6, 2025 — Lloyd Hall 38
 - September 19, October 17, November 15, 2024 — North Lawn 1014
+
+## 📝 Examination Administration & Proctoring Experience
+
+**Invigilator (Final Examinations)**
+- Kathmandu University — 2019–2021
+- Proctored final examinations, ensured compliance with academic integrity standards, and supported examination logistics.
+
+**Superintendent (Final Diploma Examinations)**
+- Council for Technical Education and Vocational Training (CTEVT), Nepal
+- Cahabil & Sindhupalchok — 2017–2018
+- Oversaw administration of final diploma examinations, including exam coordination, supervision of invigilators, adherence to examination protocols, and reporting.
