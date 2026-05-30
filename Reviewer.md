@@ -10,7 +10,7 @@
 | 3     | Geography Compass – Wiley                                                                     | 1                  | Reviewer                         |
 | 4     | IEEE Transactions on Geoscience and Remote Sensing                                            | 3                  | Reviewer                         |
 | 5     | IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2026)                                                                         | 1                 | Reviewer                         |
-| 6     | International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)                                                                       | 1                  | Reviewer                         |
+| 6     | International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)                                                                       | 2                  | Reviewer                         |
 | 7     | IEEE TENCON Symposium (TenSymp 2025)                                                                          | 2                  | Reviewer                         |
 | 8    | Journal of Natural Hazards – Springer Nature                                                  | 1                  | Reviewer                         |
 | 9    | PLOS ONE                                                                                      | 1                  | Reviewer                         |
