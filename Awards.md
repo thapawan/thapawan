@@ -1,6 +1,9 @@
 ## 🏆 Awards & Honors
 
-### 🌍 UCGIS Student Travel Award -  University of Maryland, College Park
+### 🖼️ Selected Participant, Pittsburgh Supercomputing Center, NSF Funded
+ByteBoost Workshop, Travel award and accommodation provided — *2026*
+
+### 🌍 Travel Award -  University of Maryland, College Park, UCGIS
 UCGIS Symposium AI Everywhere  — *2026*
 
 ### 🌍 Travel Award – University of Illinois Urbana‑Champaign, NSF‑funded
