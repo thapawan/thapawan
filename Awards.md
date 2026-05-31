@@ -1,6 +1,6 @@
 ## 🏆 Awards & Honors
 
-### 🖼️ Selected Participant, Pittsburgh Supercomputing Center, NSF Funded
+### 🖼️ Selected Participant, Pittsburgh Supercomputing Center,Pittsburgh, Pennsylvania, NSF-Funded
 ByteBoost Workshop, Travel award and accommodation provided — *2026*
 
 ### 🌍 Travel Award -  University of Maryland, College Park, UCGIS
