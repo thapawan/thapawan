@@ -58,6 +58,7 @@ Previously, I had the privilege of lecturing at Kathmandu University, Nepal, and
 - **[MCM](https://ee-pawanthapa42.projects.earthengine.app/view/mcw):** Meander classification model.
 - **[SlopeCurvature](https://meanderclassify.users.earthengine.app/view/slopecurvature):** Slope and curvature analysis tool.
 - **[Flood Morang](https://pawanthapa42.users.earthengine.app/view/flood-morang):** Flood analysis for Morang region.
+- **[RPubs](https://rpubs.com/pawan_thapa):** Interactive dashboards and maps providing real‑time analytics and visualizations.
 
 ## 🏆 Achievements & Contributions
 
