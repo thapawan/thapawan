@@ -45,8 +45,9 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 ### Number of Talks: n=2
 1.	Invited Talks, Building A Resilient Churia Region in Nepal (BRCRN) Training of Trainers' Workshop on Climate Resilient Land Use Planning and Use of GIS/RS Tools, Sept 2021. 
 2.	Virtual Presentation about computer software/programming application in Geomatics Engineering, IB Diploma Program by the Switzerland-based International Baccalaureate Organization (IBO), Ullens School, Lalitpur, Nepal, April 30, 2021.
-### Number of Technical Services: n=1
+### Number of Technical Services: n=2
 1.	Technical Expert Committee, Virtual Conference on Disaster Risk Reduction, Mar 2021;  https://vcdrr.nitk.ac.in/committee.html.
+2.	Invited Expert Participant in the Metascience Novelty Indicators Challenge (University of Sussex / UK Metascience Unit), contributing domain‑specific novelty assessments of scholarly publications.
 
 <details>
 <summary>📅 <b>Yearly Breakdown</b></summary>
