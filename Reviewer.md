@@ -13,7 +13,7 @@
 | 6     | International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)                                                                       | 2                  | Reviewer                         |
 | 7     | IEEE TENCON Symposium (TenSymp 2025)                                                                          | 2                  | Reviewer                         |
 | 8    | Journal of Natural Hazards – Springer Nature                                                  | 1                  | Reviewer                         |
-| 9    | PLOS ONE                                                                                      | 1                  | Reviewer                         |
+| 9    | PLOS ONE (Public Library of Science)                                                                                  | 1                  | Reviewer                         |
 | 10     | Journal of Geographic Information System (JGIS)                                               | 1                  | Reviewer                         |
 | 11    | Arabian Journal of Geoscience                                                                 | 4                  | Reviewer                         |
 | 12    | AICOVID19 (Book Chapter Review)                                                               | 1                  | Sub‑reviewer / External Reviewer |
@@ -23,6 +23,7 @@
 | 16    | International Journal of Geoinformatics                                                       | 1                  | Reviewer                         |
 | 17    | Journal of Hydrology: Regional Studies                                                        | 1                  | Reviewer                         |
 | 18    | International Journal of Image and Data Fusion                                                | 1                  | Reviewer                         |
+| 19    | PLOS ONE (Public Library of Science)   | 1                 | Reviewer                         |
 
 </details>
 
