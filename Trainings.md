@@ -9,7 +9,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 | **Date** | **Event** | **Details** |
 |----------|-----------|-------------|
-| March 21, 2026 | Global Surveyor's Day |
+| March 21, 2026 | Global Surveyor's Day | Virtual |
 | Nov 18–20, 2025 | GeoAwareness Week | Drone Flight Approval (UA & FAA), Teaching & Demonstration |
 | June 28, 2025 | National Water Center Innovators Program: CUAHSI Summer Institute | Drone Flight Approval (FAA), Supervision & Demonstration |
 | Nov 15, 2023 | GIS Day | Drone Flight Approval (UA & FAA), Teaching & Demonstration |
@@ -24,7 +24,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
 | September 21-25, 2026 | Applied Geoinformatics for Society and Environment 2026, Kwame Nkrumah University of Science & Technology (KNUST), Kumasi, Ghana| AGSE Virtual |
-|June 8th 2026 - August 28th, 2026| Seismology Skill Building Workshop (SSBW) | ESA Virtual |
+|June 8th 2026 - August 28th, 2026| ESA Seismology Skill Building Workshop (SSBW) | Virtual |
 | June 3-5, 2026| AI Unlocked Workshop ACCESS Support Team and NAIRR Pilot User Experience Working Group, Denver, USA| NSF ACCESS & NAIRR |
 | May 18-20, June 1, 2026 | CAUSHI Data Publishing Program Virtual | CAUSHI |
 | May 21 & 29, 2026| Estimating Biomass and Change with GEDI and the OBIWAN API | NASA ARSET |
@@ -63,16 +63,14 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 <details>
 <summary>🎓 <b>Graduate Teaching Assistant (GTA) & Safety Training</b></summary>
 
-| **Date** | **Event** |
-|----------|-----------|
-
-| May 15, 2026 | PhD Symposium: Pathways Beyond Academia|
+| Date | Event |
+|------|-------|
+| May 15, 2026 | PhD Symposium: Pathways Beyond Academia |
 | Jan 26, 2026 | Graduate School Thesis and Dissertation |
 | Sept 26, 2024 | GTA Training: Effective PowerPoint |
+| 2025 | General Driver Safety Training |
 | Nov 6, 2024 | GTA Training: Upgrading |
 | Nov 21, 2024 | GTA Training: Generative AI for Teaching |
-| 2025 | General Driver Safety Training |
-
 
 </details>
 
@@ -143,7 +141,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 - **NASA ARSET**  — Fundamental of Remote Sensing, Hyperspectral Data for Land and Coastal Systems
 - **Geoversity**  — Introduction to Geowebapp building with Open Source Tools, UAVs in Precision Agriculture
 - **EarthScope Consortium**  — Intro to GMT for Geophysics
-- **Other Platforms**
+### 📅 Other Platforms
 -  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
 -  AI and Machine Learning on Olympus/Great Learning
 -  Part 107 Small Uas Initial  Part 61 Pilots (ALC515), Part 107 Small Uas Initial  Part 61 Pilots (ALC451)
