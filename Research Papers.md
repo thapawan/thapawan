@@ -28,8 +28,9 @@
 
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
-| 2026 | GeoAI-powered crop recommendation system for sustainable agriculture: A comparative machine learning approach. |GeoAI-driven Earth Observation for Sustainable Development: Contemporary Advances & Emerging Opportunities across Scale. Elsevier.| Accepted|
-| 2026 | Machine Learning Model to Map and Predict the Susceptibility of a Landslide: A Case Study in Mountainous Terrain, Nepal|Landslide Science: Geospatial Advances in Monitoring, Modeling, and Management,Elsevier.| Accepted |
+| 2026 | Thermal Landscape Transformation and Vegetation Loss in Urbanizing Himalayan City: Implications for Climate Resilience and Sustainable Urban Planning, Urban Heat Island Dynamics in a Changing Climate: Trends, Challenges, and Pathways to Sustainability, Taylor & Francis.| In Preparation |
+| 2026 | GeoAI-powered crop recommendation system for sustainable agriculture: A comparative machine learning approach. |GeoAI-driven Earth Observation for Sustainable Development: Contemporary Advances & Emerging Opportunities across Scale, Elsevier.| Accepted |
+| 2026 | Machine Learning Model to Map and Predict the Susceptibility of a Landslide: A Case Study in Mountainous Terrain, Nepal|Landslide Science: Geospatial Advances in Monitoring, Modeling, and Management, Elsevier.| Accepted |
 | 2026| Assessing wildfire severity and identifying hotspots using computational intelligence and image processing | *Computational Intelligence in Surveillance Systems Using Image Processing* – Elsevier | https://doi.org/10.1016/B978-0-443-36408-2.00003-5 |
 | 2025 | Deep Learning-Enhanced Flood Risk Mapping for Urban Planning and Disaster Mitigation in the Morang District, Nepal Himalaya | *The Himalaya Dilemma* – Springer | https://doi.org/10.1007/978-3-031-95083-4_21 |
 | 2022 | Time Series Analysis and Forecast of COVID-19 Pandemic | *Decision Sciences for COVID-19* – Springer | https://doi.org/10.1007/978-3-030-87019-5_6 |
@@ -47,8 +48,8 @@
 
 | Year | Title | Conference | DOI / Link |
 |------|-------|-----------|------------|
+| 2026 | Hybrid Deep Learning Framework for Nepali License Plate Recognition| In Preparation | https://doi.org/110.36227/techrxiv.177006487.74939168/v1 |
 | 2026 | Geo Artificial Intelligence of Things (GAIoT): Integrating UAV‑based geoinformation, sensors, and AI for environmental and societal applications|14th International Summer School and Conference on Applied Geoinformatics for Society and Environment (AGSE 2026) | Accepted |
-| 2026 | Hybrid Deep Learning Framework for Nepali License Plate Recognition| IEEE International Conference on Nexus of Digitalization, Intelligence and Applications (ICNDIA)| https://doi.org/110.36227/techrxiv.177006487.74939168/v1 |
 | 2025 | MMATWidth: Detection of River Centerlines Extraction and Width Estimation Using Modified Medial Axis Transform | IEEE Region 10 Symposium (TENSYMP) | https://doi.org/10.109/TENSYMP63728.2025.11144976 |
 | 2021 | Land Parcel Information System Using Free and Open-Source Platform | FIG eWorking Week | [View Paper](https://www.fig.net/resources/proceedings/fig_proceedings/fig2021/papers/ts07.2/TS07.2_thapa_10910.pdf) |
 | 2021 |Potential of Free and Open Source Software for Education in Developing Countries|Proceedings of FOSS4G Asia 2021: In The Era of Artificial Intelligence and IoT for Land Management and Sustainable Development| https://doi.org/10.13140/RG.2.2.31876.65929 |
