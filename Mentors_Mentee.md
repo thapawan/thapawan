@@ -85,4 +85,7 @@ Led the preparation of high‑resolution orthophoto maps to support landless pop
 ### **12) Chepang & Indigenous Mapping Project — YouthMappers (Technical Support & Advisor)**
 Provided technical guidance, capacity‑building, and project design support for YouthMappers' indigenous community mapping initiative in Nepal.
 Focused on empowering Chepang and other Indigenous youth and communities.
+
+### **13) IEEE GRSS IDEA Professional Development Microgrant Program**
+Applied participant, highly competitive international professional development program (2026).
 ***
