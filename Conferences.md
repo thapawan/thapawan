@@ -26,7 +26,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 13. Amanambu, A., Davis, L., THAPA P., Ashanti, J. W. (2025). Linking Flood Dynamics and Landslide Susceptibility during Hurricane Helene: A Physics-Informed Machine Learning Approach. *SEDAGG 2025.*
 14. THAPA P., Thapa, M. (2026). Weakly Supervised Social-Satellite Fusion for Near Real-Time Soil Erosion Detection and Linguistic Analysis in the United States, The 6th International Electronic Conference on Remote Sensing.
 15. THAPA, P., & Thapa, M. (2026). Geo Artificial Intelligence of Things (GAIoT): Integrating UAV‑based geoinformation, sensors, and AI for environmental and societal applications. 14th International Summer School and Conference on Applied Geoinformatics for Society and Environment (AGSE 2026), Kumasi, Ghana, Hybrid.
-
+16. THAPA P. UAV Applications in Surveying and Geomatics for Spatial Data Collection and Mapping. Presented at the 2026 FIG & UNECE WPLA International Conference, Istanbul, Türkiye, October 28–30, 2026.
 ---
 
 ### 🖼️ Poster Presentations (n=10)
