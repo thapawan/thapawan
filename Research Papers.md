@@ -7,6 +7,7 @@
 |------|-------|---------|------------|
 | 2026 | Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation | *Progress in Physical Geography: Earth and Environment*, (Invited Q1, IF: 3.6) | Under Review |
 | 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Under Review, Invited Q1, IF: 4.8) | Under Review |
+| 2026 | Rapid Flood Inundation Mapping During the 2019 Mississippi River Flood Using Sentinel-1 SAR and Google Earth Engine.  | *Remote Sensing*, special Issue: The 6th International Electronic Conference on Remote Sensing (ECRS 2026) (Under Review, Invited Q1, IF: 4.1) | Under Review |
 | 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q2, IF: 2.8) | Under Review |
 | 2026 | Spatiotemporal coupling of urbanization, surface heat islands, and escalating energy demand in a Himalayan valley: A remote sensing and econometric approach. |*Global Challenges & Regional Science (Elsevier, ERSA), Open Access journal*| Under Review |
 | 2026 | High-Resolution Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas Using Sentinel-2 and Google Earth Engine: A Case Study in Melamchi River | *Geohazards & Remediation*| Accepted |
