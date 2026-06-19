@@ -10,7 +10,7 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 
 ---
 
-### 🗣️ Oral Conference Presentations (n=15)
+### 🗣️ Oral Conference Presentations (n=16)
 1. THAPA P. (2017). Applying Direction Map Criteria to a Complex Large-Scale Environment. *Institute of Geoinformatics (Ifgi), Muenster, Germany.*
 2. THAPA P. (2019). Observed and Perceived Climate Change Analysis in the Terai Region, Nepal. *5th Graduate Conference on Environment and SDGs, Dhulikhel.*
 3. THAPA P., Gautam A. (2021). Potential of Free and Open-Source Software for Education in Developing Countries. *FOSS4G Asia 2021, Dhulikhel, Nepal.*
