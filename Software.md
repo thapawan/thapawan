@@ -5,50 +5,94 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-blue)
 
 ## 📖 Overview
-This repository showcases a comprehensive toolkit of industry-standard software used in my projects, research, and professional work. The tools cover a wide range of domains, including **Geospatial Analysis**, **Remote Sensing**, **Hydrology**, **UAV Operations**, and **High-Performance Computing**. They support workflows for GIS mapping, remote sensing, LIDAR processing, hydrographic surveys, GNSS trajectory analysis, UAV mission planning, and cloud-based geospatial computation.
 
----
+This repository showcases a comprehensive toolkit of **industry‑standard software and processing tools** used in my research, projects, and professional work. The toolkit spans **Geospatial Analysis, Remote Sensing, LiDAR, Hydrography, Hydrology, UAV Operations, GeoAI, and High‑Performance Computing**, supporting end‑to‑end workflows from data acquisition to modeling, visualization, and decision support.
+
+***
 
 ## 🛠 Toolkit Table
-| **Category**                | **Tool Name**                | **Key Skills** |
-|-----------------------------|-----------------------------|----------------|
-| 🌍 **GIS & Mapping**        | [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) | Advanced GIS Analysis, Cartography |
-|                             | [ArcMap](https://desktop.arcgis.com/en/arcmap/) | Legacy GIS Analysis and Mapping |
-|                             | [ArcGIS Enterprise](https://www.esri.com/en-us/arcgis/products/arcgis-enterprise/overview) | Enterprise GIS Deployment and Management |
-|                             | [ArcGIS Online](https://www.arcgis.com/index.html) | Web GIS, Cloud Mapping, Sharing and Collaboration |
-|                             | [QGIS](https://qgis.org/en/site/) | Open-Source GIS, Data Creation, Custom Analysis |
-| 🛰 **Remote Sensing & Imaging** | [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) | Orthorectification, Raster Processing |
-|                             | [ENVI](https://www.l3harrisgeospatial.com/Software-Technology/ENVI) | Advanced Remote Sensing, Image Classification |
-|                             | Hyperspec III & SpectralView | Hyperspectral Data Analysis and Processing |
-|                             | [Fiji / ImageJ](https://imagej.net/software/fiji/) | Scientific Image Analysis, Manipulation, Measurements |
-| 🌐 **LIDAR & Point Clouds** | [CloudCompare](https://www.cloudcompare.org/) | 3D Point Cloud Filtering, Registration, Visualization |
-|                             | Velodyne LIDAR Veloview | LIDAR Data Playback and Review |
-| 🌊 **Hydrography & Bathymetry** | [HYPACK](https://www.hypack.com/) | Hydrographic Survey Design, Data Acquisition, Processing |
-|                             | River Surveyor / RSQ | Real-time ADCP Data Collection |
-|                             | EXO Sonde | Multiparameter Water Quality Monitoring and Calibration |
-| 🏞 **Hydraulic & Hydrology** | [HEC-RAS](https://www.hec.usace.army.mil/software/hec-ras/) | River Hydraulics, Flood Modeling |
-|                             | [HY-8](https://www.fhwa.dot.gov/engineering/hydraulics/software/hy8/) | Culvert and Hydraulic Structure Analysis |
-|                             |LISFlood | Flood Modeling and Mapping |
-|                             |SWAT | Hydrological Modeling |
-| 📡 **GNSS & Trajectory**    | POSPac UAV | PPK for High-Accuracy GNSS/IMU Data |
-|                             | GPS Pathfinder Office | Differential Correction of Field-Collected GNSS Data |
-|                             | HPI Trajectory Plotter | GPS/IMU Trajectory Visualization and Quality Check |
-| 🚁 **UAV & Field Operations** | [UgCS Missions](https://www.ugcs.com/) | Advanced Drone Flight Planning and Mission Execution |
-|                             | [Drone2Map](https://www.esri.com/en-us/arcgis/products/arcgis-drone2map/overview) | Drone Imagery Processing and Mapping |
-|                             | ViewSpec Pro | Field Spectroradiometer Data Review |
-|                             | Pix4D Mapper | Mapping and Field planning |
-| 🎨 **Cartography & Design** | [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) | Final Map Finishing, Layout, Graphic Design |
-| 🖥 **Engineering & CAD**    | [AutoCAD](https://www.autodesk.com/products/autocad/overview) | CAD Design, Drafting for Geospatial Applications |
-| ⚡ **High-Performance & Cloud** | HPC | High-Performance Computing for Geospatial Analysis |
-|                             | [AWS](https://aws.amazon.com/) | Cloud Computing, Storage, and Geospatial Workflows |
-| 🔬 **Spectral Analysis**    | ASD | Field Spectroradiometer Data Acquisition and Calibration |
 
----
+| **Category**                         | **Tool Name**                | **Key Skills**                                  |
+| ------------------------------------ | ---------------------------- | ----------------------------------------------- |
+| 🌍 **GIS & Mapping**                 | ArcGIS Pro                   | Advanced GIS analysis, cartography              |
+|                                      | ArcMap                       | Legacy GIS analysis and mapping                 |
+|                                      | ArcGIS Enterprise            | Enterprise GIS deployment and management        |
+|                                      | ArcGIS Online                | Web GIS, cloud mapping, sharing & collaboration |
+|                                      | QGIS                         | Open‑source GIS, spatial analysis               |
+|                                      | GDAL / OGR                   | Raster & vector processing, reprojection        |
+|                                      | PROJ                         | Coordinate reference system transformations     |
+| 🛰 **Remote Sensing & Imaging**      | ERDAS IMAGINE                | Orthorectification, raster processing           |
+|                                      | ENVI                         | Image classification, spectral analysis         |
+|                                      | Hyperspec III & SpectralView | Hyperspectral data processing                   |
+|                                      | Fiji / ImageJ                | Scientific image analysis                       |
+| 🌐 **LiDAR & Point Clouds**          | CloudCompare                 | Point‑cloud filtering, registration             |
+|                                      | LAStools                     | LiDAR classification & QA                       |
+|                                      | PDAL                         | Point‑cloud processing pipelines                |
+|                                      | Velodyne Veloview            | LiDAR playback & inspection                     |
+|                                      | Potree                       | Web‑based LiDAR visualization                   |
+| 🌊 **Hydrography & Bathymetry**      | HYPACK                       | Hydrographic survey design & processing         |
+|                                      | CARIS HIPS & SIPS            | Hydrographic workflows                          |
+|                                      | Qimera                       | Multibeam bathymetry processing                 |
+|                                      | RiverSurveyor / RSQ          | ADCP data acquisition                           |
+|                                      | EXO Sonde                    | Water‑quality monitoring & calibration          |
+| 🏞 **Hydrology & Hydraulics**        | HEC‑RAS                      | River hydraulics, flood modeling                |
+|                                      | HEC‑HMS                      | Rainfall‑runoff modeling                        |
+|                                      | HY‑8                         | Culvert & hydraulic structure analysis          |
+|                                      | LISFLOOD                     | Large‑scale flood modeling                      |
+|                                      | SWAT                         | Watershed hydrological modeling                 |
+| 📡 **GNSS & Trajectory**             | POSPac UAV                   | PPK GNSS/IMU trajectory processing              |
+|                                      | GPS Pathfinder Office        | Differential GNSS correction                    |
+|                                      | HPI Trajectory Plotter       | GNSS/IMU QA & visualization                     |
+| 🚁 **UAV & Field Operations**        | UgCS Missions                | Advanced UAV mission planning                   |
+|                                      | Drone2Map                    | Drone imagery processing                        |
+|                                      | Pix4D Mapper                 | UAV photogrammetry                              |
+|                                      | ViewSpec Pro                 | Field spectroradiometer review                  |
+| 🎨 **Cartography & Design**          | Adobe Illustrator            | Final map layouts & graphic design              |
+| 🖥 **Engineering & CAD**             | AutoCAD                      | CAD drafting for geospatial applications        |
+| ⚡ **High‑Performance & Cloud**       | HPC                          | Large‑scale geospatial computation              |
+|                                      | AWS (S3, EC2, SageMaker)     | Cloud storage, compute, ML pipelines            |
+|                                      | Google Earth Engine          | Planet‑scale Earth observation analysis         |
+|                                      | Microsoft Planetary Computer | Earth observation data access                   |
+|                                      | OpenEO                       | Cloud EO processing                             |
+| 🤖 **GeoAI & Machine Learning**      | PyTorch                      | Deep learning for GeoAI                         |
+|                                      | TensorFlow / Keras           | Neural networks & embeddings                    |
+|                                      | scikit‑learn                 | Classical ML & feature engineering              |
+|                                      | XGBoost / LightGBM           | Gradient boosting for spatial data              |
+|                                      | SHAP                         | Explainable AI                                  |
+|                                      | Dask                         | Scalable geospatial computation                 |
+| 🧪 **Reproducible Research**         | Git / GitHub                 | Version control                                 |
+|                                      | Jupyter / JupyterLab         | Interactive analysis                            |
+|                                      | Quarto / R Markdown          | Reproducible reports                            |
+|                                      | Docker                       | Containerized workflows                         |
+|                                      | Snakemake                    | Workflow automation                             |
+|                                      | Conda / Mamba                | Environment management                          |
+| 📊 **Visualization & Communication** | Matplotlib / Seaborn         | Scientific plotting                             |
+|                                      | Plotly                       | Interactive dashboards                          |
+|                                      | Kepler.gl                    | Large spatial data visualization                |
+|                                      | Leaflet / Mapbox             | Web mapping                                     |
+|                                      | Tableau / Power BI           | Decision‑support dashboards                     |
+| 🔬 **Spectral Analysis**             | ASD                          | Field spectroradiometer calibration & analysis  |
+
+***
+
+## 📏 Standards & Best Practices
+
+* FAIR data principles
+* ASPRS positional accuracy standards
+* IHO S‑44 (hydrographic surveys)
+* NOAA & USACE hydrographic guidelines
+* USGS LiDAR Base Specification
+
+***
 
 ## 📚 Resources
-- [Esri Training](https://www.esri.com/training/)
-- [QGIS Documentation](https://docs.qgis.org/)
-- [HEC-RAS User Manual](https://www.hec.usace.army.mil/software/hec-ras/documentation.aspx)
-- [AWS Geospatial Solutions](https://aws.amazon.com/solutions/industries/geospatial/)
 
----
+* <https://www.esri.com/training/>
+* <https://docs.qgis.org/>
+* <https://www.hec.usace.army.mil/software/hec-ras/documentation.aspx>
+* <https://aws.amazon.com/solutions/industries/geospatial/>
+* <https://www.isprs.org>
+
+***
+
+
