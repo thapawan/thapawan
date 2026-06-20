@@ -4,6 +4,11 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 
 ---
 ### 📅 Events (2026)
+- Building, Evaluating, and Interpreting a MaxEnt Model, Jul 14, 2026
+- Foundations of Species Distribution Modeling with GEE, Jul 7, 2026
+- GeoAI - Prospects and Challenges, June 30, 2026
+- Earth Observation and Geospatial Technologies for Coastal Risk Assessment, June 22, 2026
+- Estimating Biomass Change with GEDI and the OBIWAN API, May 28, 2026
 - Celebrate Global Accessibility Awareness Day, University of Alabama, May 21, 2026
 - Beyond AI Detection: The Mosaic Approach to Responsible AI in Academia, May 21, 2026  
 - GeoAI That Works: Turning Geospatial AI Hype into Real ROI, May 13, 2026
