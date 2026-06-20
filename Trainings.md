@@ -114,7 +114,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 #### 2026
 - WaterSoftHack July 20–July 31 Virtual, 2026
-- CUAHSI Virtual Open House, July 24, 2026
+- CUAHSI Virtual Open House, June 24, 2026
 - UCGIS 2026 Symposium — AI Everywhere, University of Maryland, College Park, June 15–18, 2026
 - High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
 - Introduction to Scientific Machine Learning, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications, April 10, 2026
