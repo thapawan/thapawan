@@ -24,7 +24,8 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
 | September 21-25, 2026 | Applied Geoinformatics for Society and Environment 2026, Kwame Nkrumah University of Science & Technology (KNUST), Kumasi, Ghana| AGSE Virtual |
-|June 8th 2026 - August 28th, 2026| ESA Seismology Skill Building Workshop (SSBW) | Virtual |
+|August 25 - August 26th, 2026| Near-surface Geophysics Community Input Workshop |NSF NGF, operated by EarthScope | Virtual |
+|June 8th - August 28th, 2026| ESA Seismology Skill Building Workshop (SSBW) | Virtual |
 | June 3-5, 2026| AI Unlocked Workshop ACCESS Support Team and NAIRR Pilot User Experience Working Group, Denver, USA| NSF ACCESS & NAIRR |
 | May 18-20, June 1, 2026 | CAUSHI Data Publishing Program Virtual | CAUSHI |
 | May 21 & 29, 2026| Estimating Biomass and Change with GEDI and the OBIWAN API | NASA ARSET |
@@ -97,6 +98,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | **Date** | **Event** |
 |----------|-----------|
 | July 13–17, 2026| I‑GUIDE Summer School – University of Illinois Urbana‑Champaign, USA |
+| June 9, 2026| Bridging R&I among Coastal Regions, Online |
 | May 2–4, 2026| ByteBoost summer workshop - Stony Brook University, USA |
 | Dec 10–11, 2019 | International Workshop on Capacity Building & Education Outreach in Advanced Geospatial Technologies |
 | July 1–7, 2019 | Summer School – Wuhan University, China |
@@ -112,6 +114,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 #### 2026
 - WaterSoftHack July 20–July 31 Virtual, 2026
+- CUAHSI Virtual Open House, July 24, 2026
 - UCGIS 2026 Symposium — AI Everywhere, University of Maryland, College Park, June 15–18, 2026
 - High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
 - Introduction to Scientific Machine Learning, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications, April 10, 2026
