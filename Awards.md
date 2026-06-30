@@ -14,6 +14,8 @@
 
 ## 🌍 Travel Awards & Sponsored Participation
 
+* **Selected Participant** — IEEE GRSS International Advanced Data Fusion School (IADF 2026)
+ *IEEE GRSS‑sponsored international advanced school on remote sensing, data fusion, and GeoAI* *(University of Sannio, Benevento, Italy, 2026)*
 * **Selected Participant** — Pittsburgh Supercomputing Center (NSF‑funded), ByteBoost Workshop  
   *Travel award and accommodation provided* *(Pittsburgh, PA, 2026)*
 * **Travel Award** — University of Maryland, College Park (UCGIS)  
