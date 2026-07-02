@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm focusing on the fascinating intersection of Geographic Information Science (GIS), Remote Sensing, Deep Learning and Machine Learning to understand fluvial systems. My research explores river dynamics, meander detection and classification, hydrological and hydraulic modeling, and flood resilience.
+I'm focusing on the intersection of Geographic Information Science (GIS), Remote Sensing, Deep Learning and Machine Learning to understand fluvial systems. My research explores river dynamics, meander detection and classification, hydrological and hydraulic modeling, and flood resilience.
 
 ## 🛠️ My Toolkit
 
