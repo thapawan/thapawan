@@ -5,13 +5,14 @@
 
 | Year | Title | Journal | DOI / Link |
 |------|-------|---------|------------|
-| 2026 | Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation | *Progress in Physical Geography: Earth and Environment*, (Invited Q1, IF: 3.6) | Under Review |
+| 2026 | A Data-Informed Framework for Post-Flood Recovery and Resilience Classification Using Multi-Temporal Satellite Embeddings | *Journal of Environmental Management*, (Invited Q1, IF: 9.2) | Under Review |
+| 2026 | Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation | *Progress in Physical Geography: Earth and Environment*, (Invited Q1, IF: 3.5) | Under Review |
 | 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Under Review, Invited Q1, IF: 4.8) | Under Review |
 | 2026 | Rapid Flood Inundation Mapping During the 2019 Mississippi River Flood Using Sentinel-1 SAR and Google Earth Engine.  | *Remote Sensing*, special Issue: The 6th International Electronic Conference on Remote Sensing (ECRS 2026) (Under Review, Invited Q1, IF: 4.1) | Under Review |
 | 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q2, IF: 2.8) | Under Review |
 | 2026 | Spatiotemporal coupling of urbanization, surface heat islands, and escalating energy demand in a Himalayan valley: A remote sensing and econometric approach. |*Global Challenges & Regional Science (Elsevier, ERSA), Open Access journal*| Under Review |
 | 2026 | High-Resolution Mapping of Sediment-Laden Flash Floods and Long-Term Ecosystem Degradation in the Nepal Himalayas Using Sentinel-2 and Google Earth Engine: A Case Study in Melamchi River | *Geohazards & Remediation*| https://doi.org/10.1007/s44517-026-00005-x |
-| 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.7) | https://doi.org/10.1002/esp.70158 |
+| 2025 | Enhanced river planform analysis using deep learning and medial axis transform with Sentinel 1A imagery | *Earth Surface Processes & Landforms* (Q1, IF: 2.8) | https://doi.org/10.1002/esp.70158 |
 | 2025 | Drone in hyperspectral remote sensing data analytics: techniques and applications | *Geocarto International* (Q1, IF: 3.5) | https://doi.org/10.1080/10106049.2025.2572670 |
 | 2025 | Operational Efficiency and Environmental Impact of UAV-Based Vaccine Delivery in Remote Areas of Nepal | *Next Research* | https://doi.org/10.1016/j.nexres.2025.100207 |
 | 2022 | Prospection of Potential Iron Deposit in Gandaki and Lumbini Province of Nepal Using Remote Sensing Technology | *Journal on Geoinformatics* | https://doi.org/10.3126/njg.v21i1.50886 |
@@ -30,6 +31,7 @@
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
 | 2026 | Thermal Landscape Transformation and Vegetation Loss in Urbanizing Himalayan City: Implications for Climate Resilience and Sustainable Urban Planning, Urban Heat Island Dynamics in a Changing Climate: Trends, Challenges, and Pathways to Sustainability, Taylor & Francis.| In Preparation |
+| 2026 | Anthropogenic Pressures on Land Degradation in the Central Himalayas: Designing a Spatial Monitoring and Reporting Tool (SMART), Himalayan Geo-Environmental Hazards and Disaster Resilience: Contemporary Issues and Consequences, Springer Nature | In Preparation |
 | 2026 | GeoAI-powered crop recommendation system for sustainable agriculture: A comparative machine learning approach. |GeoAI-driven Earth Observation for Sustainable Development: Contemporary Advances & Emerging Opportunities across Scale, Elsevier.| Accepted |
 | 2026 | Machine Learning Model to Map and Predict the Susceptibility of a Landslide: A Case Study in Mountainous Terrain, Nepal|Landslide Science: Geospatial Advances in Monitoring, Modeling, and Management, Elsevier.| Accepted |
 | 2026| Assessing wildfire severity and identifying hotspots using computational intelligence and image processing | *Computational Intelligence in Surveillance Systems Using Image Processing* – Elsevier | https://doi.org/10.1016/B978-0-443-36408-2.00003-5 |
