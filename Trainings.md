@@ -24,7 +24,8 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 | **Date** | **Event** | **Format** |
 |----------|-----------|------------|
 | September 21-25, 2026 | Applied Geoinformatics for Society and Environment 2026, Kwame Nkrumah University of Science & Technology (KNUST), Kumasi, Ghana| AGSE Virtual |
-|August 25 - August 26th, 2026| Near-surface Geophysics Community Input Workshop |NSF NGF, operated by EarthScope | Virtual |
+|August 25-26, 2026| Near-surface Geophysics Community Input Workshop |NSF NGF, operated by EarthScope | Virtual |
+|August 3-7, 2026| InSAR Processing and Analysis (ISCE+) Course |NSF NASA, USGS, operated by EarthScope | Virtual |
 |June 8th - August 28th, 2026| ESA Seismology Skill Building Workshop (SSBW) | Virtual |
 | June 3-5, 2026| AI Unlocked Workshop ACCESS Support Team and NAIRR Pilot User Experience Working Group, Denver, USA| NSF ACCESS & NAIRR |
 | May 18-20, June 1, 2026 | CAUSHI Data Publishing Program Virtual | CAUSHI |
@@ -143,7 +144,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 - **NASA classes**  — Open Science Essentials, Open Science 101, Virtual Field Tour
 - **NASA ARSET**  — Fundamental of Remote Sensing, Hyperspectral Data for Land and Coastal Systems
 - **Geoversity**  — Introduction to Geowebapp building with Open Source Tools, UAVs in Precision Agriculture
-- **EarthScope Consortium**  — Intro to GMT for Geophysics
+- **EarthScope Consortium**  — Intro to GMT for Geophysics, Earth Scope 2026 Semismology Skill Building Workshop
 ### 📅 Other Platforms
 -  ESRI Classes: Imagery in Action, The Location Advantage, Getting Started with Site Scan for ArcGIS, Do-It-Yourself GeoApps, Catrography, Spatial Data Science: The New Frontiers in Analytics, Going with Spatial Analysis
 -  AI and Machine Learning on Olympus/Great Learning
