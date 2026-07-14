@@ -5,7 +5,7 @@
 
 | Year | Title | Journal | DOI / Link |
 |------|-------|---------|------------|
-| 2026 | A Data-Informed Framework for Post-Flood Recovery and Resilience Classification Using Multi-Temporal Satellite Embeddings | *Journal of Remote Sensing Applications & Environments*, (Invited Q2, IF: 4.9) | Under Review |
+| 2026 | A Data-Informed Framework for Post-Flood Recovery and Resilience Classification Using Multi-Temporal Satellite Embeddings | *Journal of Remote Sensing Applications: Society & Environment*, (Invited Q2, IF: 4.9) | Under Review |
 | 2026 | Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation | *Progress in Physical Geography: Earth and Environment*, (Invited Q1, IF: 3.5) | Under Review |
 | 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Invited Q1, IF: 4.8) | Under Review |
 | 2026 | Rapid Flood Inundation Mapping During the 2019 Mississippi River Flood Using Sentinel-1 SAR and Google Earth Engine.  | *Remote Sensing*, special Issue: The 6th International Electronic Conference on Remote Sensing (ECRS 2026) (Under Review, Invited Q1, IF: 4.1) | Under Review |
