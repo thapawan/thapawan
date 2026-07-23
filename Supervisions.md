@@ -66,6 +66,10 @@ Welcome to my academic supervision portfolio! Below is a summary of graduate the
 
 # 🔬 **Research & Professional Projects**
 
+### **High-Performance Computing & GeoAI Projects**
+*   **2026 — ByteBoost 2.0 Cybertraining Program (NSF-Funded):**  
+    Project Lead: Scalable Detection and Modeling of Soil Erosion Using Multi-Source Remote Sensing and High-Performance Computing Testbeds
+    Selected project for the ByteBoost 2.0 Cybertraining Program. Developing scalable GeoAI and deep learning workflows using Sentinel-1 SAR, Sentinel-2, USGS 3DEP      DEMs, and high-performance computing (HPC) platforms for large-scale soil erosion detection, mapping, and explainable AI analysis.
 ### **NASA & Hydrology / Remote Sensing Projects**
 
 *   **2023–2024 — NASA SWOT (GR29415):**  
