@@ -37,7 +37,7 @@
 * **AGU Annual Meeting** *(Fall 2023)*
 * **AAG Annual Meeting** *(Spring 2022)*
 * **Graduate Research Funding** — NASA Project *(GR29315 & GR29415)* *(May 16 – Aug 15, 2023)*
-* **Graduate Research Funding** — 1D/2D Hydraulic Project (June – July, 2026)*
+* **Graduate Research Funding** — 1D/2D Hydraulic Project (June – July, 2026)
 ***
 
 ## 🏅 Competitive Honors & Recognition
