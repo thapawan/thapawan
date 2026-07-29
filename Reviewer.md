@@ -4,13 +4,14 @@
 <summary>📄 <strong>Click to Expand Reviewer Details</strong></summary>
 
 | **#** | **Journal / Conference / Book Chapter**                                                       | **No. of Reviews** | **Role**                         |
-| ----- | --------------------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
-| 1     | International Conference on Artificial Intelligence, Computer, Data Sciences and Applications | 2                  | Reviewer                         |
+| ----- | --------------------------------------------------------------------------------------------- | ------------------ | -------------------------------- | 
+| 1     | International Conference on Electrical and Computer Engineering Researches (ICECER 2026), a conference with proceedings submitted to IEEE Xplore | 1                  | Invited Reviewer                         |
+| 1     | International Conference on Artificial Intelligence, Computer, Data Sciences and Applications, a conference with proceedings submitted to IEEE Xplore  | 2                  | Reviewer                         |
 | 2     | AGU Fall Meeting 2025 – First-Time Presenter Feedback Program                                 | 1                  | Reviewer                         |
 | 3     | Geography Compass – Wiley                                                                     | 1                  | Reviewer                         |
 | 4     | IEEE Transactions on Geoscience and Remote Sensing                                            | 3                  | Reviewer                         |
-| 5     | IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2026)                                                                         | 1                 | Reviewer                         |
-| 6     | International Conference on Electrical, Computer and Energy Technologies (ICECET 2026)                                                                       | 2                  | Reviewer                         |
+| 5     | IEEE International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME 2026), a conference with proceedings submitted to IEEE Xplore                                                                         | 1                 | Reviewer                         |
+| 6     | International Conference on Electrical, Computer and Energy Technologies (ICECET 2026) , a conference with proceedings submitted to IEEE Xplore                                                                      | 2                  | Reviewer                         |
 | 7     | IEEE TENCON Symposium (TenSymp 2025)                                                                          | 2                  | Reviewer                         |
 | 8    | Journal of Natural Hazards – Springer Nature                                                  | 1                  | Reviewer                         |
 | 9    | PLOS ONE (Public Library of Science)                                                                                  | 1                  | Reviewer                         |
