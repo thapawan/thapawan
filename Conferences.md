@@ -30,17 +30,17 @@ Welcome to my professional engagement portfolio! Below is a curated list of conf
 ---
 
 ### 🖼️ Poster Presentations (n=11)
-1. THAPA, P. (2026) Poster Presentation. “Integrating Earth Observation, Geospatial Artificial Intelligence, and Crowdsourced Data for National-Scale Monitoring of Soil Erosion Risk Across the United States”, American Geophysical Union (AGU) Fall Meeting 2026, Session GC065: GeoAI for Multi-Source Earth Observation and Environmental Monitoring, San Francisco, CA, United States, December 2026.
-2. THAPA P., Thapa, M. (2022) Feasibility study of using uncrewed aerial vehicles to deliver COVID-19 vaccines in geographically inaccessible areas of Nepal, 9th National Conference on Science and Technology “Science for Society and Innovation for Prosperity, Jun 26-28, 2022.
-3. THAPA P., Liu, H., Wang, L., Bhandari, R. (2022). River Channel Morphology Observations from Space. *Alabama Water Institute Symposium, Tuscaloosa, AL.*
-4. THAPA P., Liu, H., Wang, L., Cohen, S., Tian, D., Song, S. (2023). Phased Coded Disk Algorithm for Automation of River Width Extraction from Remotely Sensed Imagery. *AGU Annual Meeting.*
-5. Bhandari, R., Liu, H., Cohen, S., Wang, L., Song, S., THAPA P. (2024). Derivation of Stream Flow Velocity Fields with Drone-based Velocimetry Technique. *AGU Chapman Conference, Honolulu, HI.*
-6. THAPA P., Jihee, L., Liu, H., Cohen, S., Tian, D. (2024). Stabilization and Tracer Detection of UAV-based NIR video images: Rapid River Surface Flow Velocity Measurement. *AWRA 2024 Spring Conference.*
-7. Jihee, L., Liu, H., Cohen, S., Wang, L., THAPA P. (2024). UAV-based Velocimetry Techniques for stream flow velocity field: comparison of NIR with traditional natural color video camera. *Water Observing Technology Forum, Tuscaloosa, AL.*
-8. THAPA P. (2025). Integrating Climate Change into Culvert Analysis. *DevCon 2025, Vermont, USA.*
-9. Thapa N., THAPA P., Thapa M. (2025). Cracking the Sediment Code: A Novel Spectral-Topographic Fusion Approach for High-Accuracy Glacier Lake Outburst Flash Flood Mapping. *AGU Annual Meeting 2025.*
-10. THAPA P. (2026) Poster Presentation “Scalable Detection and Modeling of Soil Erosion Using Multi Source Remote Sensing and High Performance Computing Testbeds”, ByteBoost 2026, Pittsburgh Supercomputing Center, Pittsburgh, PA, United States, August 3-7, 2026.
-11.	THAPA P. (2026) Poster Presentation “Land Degradation Findings and Restoration Challenges in the 21st Century: A Spatial Monitoring and Reporting Approach”,  1st International Conference on Land Degradation and Restoration. Virtual, Valencia, July 20th -26th, 2026.
+1. THAPA P., Thapa, M. (2022) Feasibility study of using uncrewed aerial vehicles to deliver COVID-19 vaccines in geographically inaccessible areas of Nepal, 9th National Conference on Science and Technology “Science for Society and Innovation for Prosperity, Jun 26-28, 2022.
+2. THAPA P., Liu, H., Wang, L., Bhandari, R. (2022). River Channel Morphology Observations from Space. *Alabama Water Institute Symposium, Tuscaloosa, AL.*
+3. THAPA P., Liu, H., Wang, L., Cohen, S., Tian, D., Song, S. (2023). Phased Coded Disk Algorithm for Automation of River Width Extraction from Remotely Sensed Imagery. *AGU Annual Meeting.*
+4. Bhandari, R., Liu, H., Cohen, S., Wang, L., Song, S., THAPA P. (2024). Derivation of Stream Flow Velocity Fields with Drone-based Velocimetry Technique. *AGU Chapman Conference, Honolulu, HI.*
+5. THAPA P., Jihee, L., Liu, H., Cohen, S., Tian, D. (2024). Stabilization and Tracer Detection of UAV-based NIR video images: Rapid River Surface Flow Velocity Measurement. *AWRA 2024 Spring Conference.*
+6. Jihee, L., Liu, H., Cohen, S., Wang, L., THAPA P. (2024). UAV-based Velocimetry Techniques for stream flow velocity field: comparison of NIR with traditional natural color video camera. *Water Observing Technology Forum, Tuscaloosa, AL.*
+7. THAPA P. (2025). Integrating Climate Change into Culvert Analysis. *DevCon 2025, Vermont, USA.*
+8. Thapa N., THAPA P., Thapa M. (2025). Cracking the Sediment Code: A Novel Spectral-Topographic Fusion Approach for High-Accuracy Glacier Lake Outburst Flash Flood Mapping. *AGU Annual Meeting 2025.*
+9. THAPA P. (2026) Poster Presentation “Scalable Detection and Modeling of Soil Erosion Using Multi Source Remote Sensing and High Performance Computing Testbeds”, ByteBoost 2026, Pittsburgh Supercomputing Center, Pittsburgh, PA, United States, August 3-7, 2026.
+10. THAPA P. (2026) Poster Presentation “Land Degradation Findings and Restoration Challenges in the 21st Century: A Spatial Monitoring and Reporting Approach”,  1st International Conference on Land Degradation and Restoration. Virtual, Valencia, July 20th -26th, 2026.
+11. THAPA, P. (2026) Poster Presentation. “Integrating Earth Observation, Geospatial Artificial Intelligence, and Crowdsourced Data for National-Scale Monitoring of Soil Erosion Risk Across the United States”, American Geophysical Union (AGU) Fall Meeting 2026, Session GC065: GeoAI for Multi-Source Earth Observation and Environmental Monitoring, San Francisco, CA, United States, December 2026.
 
 ---
 ### Number of Talks: n=2
