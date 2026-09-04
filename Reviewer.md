@@ -24,8 +24,9 @@
 | 17    | International Journal of Geoinformatics                                                       | 1                  | Reviewer                         |
 | 18    | Journal of Hydrology: Regional Studies                                                        | 1                  | Reviewer                         |
 | 19    | International Journal of Image and Data Fusion                                                | 1                  | Reviewer                         |
-| 20    | PLOS ONE (Public Library of Science)   | 1                 | Reviewer                         |
-
+| 20    | PLOS ONE (Public Library of Science)                                                        | 1                 | Reviewer                          |
+| 21    | Journal of Contingencies and Crisis Management                                                | 1                 | Reviewer                          |
+ 
 </details>
 
 ***
