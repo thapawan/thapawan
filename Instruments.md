@@ -64,7 +64,3 @@
 - LiDAR processing consistent with USGS Lidar Base Specification
 - Hydrographic surveys following NOAA and IHO guidelines
 ```
-
-***
-* Convert this into a **CV appendix**
-* Tailor it for **marine**, **UAV**, or **GIS‑only** roles
