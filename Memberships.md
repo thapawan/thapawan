@@ -40,7 +40,7 @@ A curated overview of my academic, professional, and scientific society membersh
 
 ### **🔧 Engineering & Remote Sensing Organizations**
 *   **ISPRS Student Consortium – Leadership Role (ISPRS)**
-    *   *Social Media Coordinator, Board Member & Student Member*, 2026
+    *   * Participate Social Media Coordinator, Board Member & Student Member*, 2026
 *   **Institute of Electrical and Electronics Engineers (IEEE)**
     *   *Student Member*, 2024–2026
 *   **International Society for Photogrammetry and Remote Sensing (ISPRS)**
