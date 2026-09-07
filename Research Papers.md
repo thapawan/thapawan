@@ -32,8 +32,8 @@
 
 | Year | Title | Book / Publisher | DOI |
 |------|-------|------------------|-----|
-| 2026 | Thermal Landscape Transformation and Vegetation Loss in Urbanizing Himalayan City: Implications for Climate Resilience and Sustainable Urban Planning, Urban Heat Island Dynamics in a Changing Climate: Trends, Challenges, and Pathways to Sustainability, Taylor & Francis.| In Preparation |
-| 2026 | Anthropogenic Pressures on Land Degradation in the Central Himalayas: Designing a Spatial Monitoring and Reporting Tool (SMART), Himalayan Geo-Environmental Hazards and Disaster Resilience: Contemporary Issues and Consequences, Springer Nature | In Preparation |
+| 2026 | Thermal Landscape Transformation and Vegetation Loss in Urbanizing Himalayan City: Implications for Climate Resilience and Sustainable Urban Planning, Urban Heat Island Dynamics in a Changing Climate: Trends, Challenges, and Pathways to Sustainability, Taylor & Francis| Under Review |
+| 2026 | Anthropogenic Pressures on Land Degradation in the Central Himalayas: Designing a Spatial Monitoring and Reporting Tool (SMART), Himalayan Geo-Environmental Hazards and Disaster Resilience: Contemporary Issues and Consequences, Springer Nature | Under Review |
 | 2026 | GeoAI-powered crop recommendation system for sustainable agriculture: A comparative machine learning approach. |GeoAI-driven Earth Observation for Sustainable Development: Contemporary Advances & Emerging Opportunities across Scale, Elsevier.| Accepted |
 | 2026 | Machine Learning Model to Map and Predict the Susceptibility of a Landslide: A Case Study in Mountainous Terrain, Nepal|Landslide Science: Geospatial Advances in Monitoring, Modeling, and Management, Elsevier.| Accepted |
 | 2026| Assessing wildfire severity and identifying hotspots using computational intelligence and image processing | *Computational Intelligence in Surveillance Systems Using Image Processing* – Elsevier | https://doi.org/10.1016/B978-0-443-36408-2.00003-5 |
