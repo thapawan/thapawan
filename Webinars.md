@@ -4,34 +4,39 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 
 ---
 ### 📅 Events (2026)
-- Building, Evaluating, and Interpreting a MaxEnt Model, Jul 14, 2026
-- Foundations of Species Distribution Modeling with GEE, Jul 7, 2026
-- GeoAI - Prospects and Challenges, June 30, 2026
-- Earth Observation and Geospatial Technologies for Coastal Risk Assessment, June 22, 2026
-- Estimating Biomass Change with GEDI and the OBIWAN API, May 28, 2026
-- Celebrate Global Accessibility Awareness Day, University of Alabama, May 21, 2026
-- Beyond AI Detection: The Mosaic Approach to Responsible AI in Academia, May 21, 2026  
-- GeoAI That Works: Turning Geospatial AI Hype into Real ROI, May 13, 2026
-- Modeling Land Surface Reflections Observed by Microwave Satellites, April 21, 2026
-- Land Cover and Water Dynamics: Applications on Conservation, April 15, 2026
-- Accelerating Remote Sensing with Google Earth Engine, University of Natural Resources and Life Sciences Vienna, Google, BOKU University, March 31, 2026
-- Governance, Licensing & Ethics for Earth Intelligence, GEO Data and Knowledge Working Group, March 19, 2026
-- Long-Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts, University of Maryland-College Park, US, Friday 13 March 2026
-- Data Spaces & Ecosystems: Enabling Scalable Earth Intelligence, GEO Data and Knowledge Working Group, Mar 10, 2026
-- Webinar DAM BUSTERS, Dam Removal and Extreme Weather, Dr. Sarah Null, Utah State University, March 4, 2026
-- AI-Assisted Teaching with GitHub: A Faculty Workshop Series, Virtual, March 3, 10, 17 and 26, 2026
+- Repeatable AI-Assisted Workflows, Sep 14
+- Observing the Earth in Many Colors: Active and Passive Remote Sensing, Sep 10
+- Applying NASA Earth Observations to Hydropower Reservoir Management, Aug 11
+- Accessing NASA Earth Observations for Reservoir Management, Aug 6
+- Data Requirements for Reservoir Management, Aug 4
+- Navigating (beyond) Academic Waters CAUSHI, Sep 10, Oct 8, Nov 19
+- Building, Evaluating, and Interpreting a MaxEnt Model, Jul 14
+- The NISAR Mission: Overview and Insights After 10 Months in Space, Jul 7
+- Foundations of Species Distribution Modeling with GEE, Jul 7
+- GeoAI - Prospects and Challenges, June 30
+- Earth Observation and Geospatial Technologies for Coastal Risk Assessment, June 22
+- Estimating Biomass Change with GEDI and the OBIWAN API, May 28
+- Celebrate Global Accessibility Awareness Day, University of Alabama, May 21
+- Beyond AI Detection: The Mosaic Approach to Responsible AI in Academia, May 21  
+- GeoAI That Works: Turning Geospatial AI Hype into Real ROI, May 13
+- Modeling Land Surface Reflections Observed by Microwave Satellites, April 21
+- Land Cover and Water Dynamics: Applications on Conservation, April 15
+- Accelerating Remote Sensing with Google Earth Engine, University of Natural Resources and Life Sciences Vienna, Google, BOKU University, March 31
+- Governance, Licensing & Ethics for Earth Intelligence, GEO Data and Knowledge Working Group, March 19
+- Long-Term Snow Avalanche Trends in High Mountain Asia: Climatic Drivers and Impacts, University of Maryland-College Park, US, Friday 13
+- Data Spaces & Ecosystems: Enabling Scalable Earth Intelligence, GEO Data and Knowledge Working Group, Mar 10
+- Webinar DAM BUSTERS, Dam Removal and Extreme Weather, Dr. Sarah Null, Utah State University, March 4
+- AI-Assisted Teaching with GitHub: A Faculty Workshop Series, Virtual, March 3, 10, 17 and 26
 - GIS Workshop 26 Feb 2026, University of Cambridge, ACARDIA, GIS Clinic
-- ISPRS WG III/9 (Geospatial Environment and Health Analytics) Webinar Series 2026, Feb 25, 2026
-- Remote Sensing of Permafrost Vulnerability and Geohazards, University of Alaska Fairbanks, USA, Feb 23, 2026
-- EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
-- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026 
-- Remote Sensing of Permafrost Vulnerability and Geohazards, Feb 23, 2026 10:00 AM, by Simon Zwieback University of Alaska Fairbanks, USA
-- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026
-- “Advancing Open Knowledge to Earth Intelligence” webinar 1 The GEO Dialogue Series 2026 builds on the 2025 GEO Onboarding Webinars for GEO Work Progremme Activities and drives GEO's mission toward equitable, actionable Earth Intelligence for All, Jan 22, 2026 08:00 AM 
- - January 28 - Current Research in Hydrogeodesy and Hydroseismology
- -  February 11 - Challenges and Opportunities in Data Sharing & Critical Zone Science
- -  February 25 - Innovative Technical Tools and Methods
- -  March 11 - Building Skills and Finding Collaborators for Hydrogeophysics
+- ISPRS WG III/9 (Geospatial Environment and Health Analytics) Webinar Series 2026, Feb 25
+- Remote Sensing of Permafrost Vulnerability and Geohazards, University of Alaska Fairbanks, USA, Feb 23
+- EUNICoast Online Seminars "Bridging R&I among Coastal Regions, Feb 10
+- Remote Sensing of Permafrost Vulnerability and Geohazards, Feb 23
+- Advancing Open Knowledge to Earth Intelligence, Jan 22
+- Building Skills and Finding Collaborators for Hydro geophysics, Mar 11
+- Innovative Technical Tools and Methods, Feb 25
+- Challenges and Opportunities in Data Sharing & Critical Zone Science, Feb 11
+- Current Research in Hydro geodesy and Hydro seismology, Jan 28
 
 ### 📅 Events (December 2025)
 - **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis**  
