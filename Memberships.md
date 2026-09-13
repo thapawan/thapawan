@@ -40,7 +40,7 @@ A curated overview of my academic, professional, and scientific society membersh
 
 ### **🔧 Engineering & Remote Sensing Organizations**
 *   **ISPRS Student Consortium – Leadership Role (ISPRS)**
-    *   * Participate Social Media Coordinator, Board Member & Student Member*, 2026
+    *   *Participate Social Media Coordinator, Board Member & Student Member*, 2026
 *   **Institute of Electrical and Electronics Engineers (IEEE)**
     *   *Student Member*, 2024–2026
 *   **International Society for Photogrammetry and Remote Sensing (ISPRS)**
@@ -73,7 +73,7 @@ A curated overview of my academic, professional, and scientific society membersh
 *   **Honor Society of Phi Kappa Phi**
     *   *Member*, 2022–2026
 *   **Geomatics Engineering Program**
-    *   *Student Representative*, 2010–2012
+    *   *Student Representative*, 2010–2013
 *   **Student Council (Bachelor Studies)**
     *   *Vice President*, 2010–2013
 
