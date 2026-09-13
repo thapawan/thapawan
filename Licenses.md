@@ -7,6 +7,8 @@
 
 | Certification                                                                 | Institution                                | Date       | Mode   |
 |-------------------------------------------------------------------------------|--------------------------------------------|------------|--------|
+|  InSAR Processing and Analysis (ISCE+)| ESA                           | Aug 2026   | Online |
+| Cloud Foundations                             | ESA                            | July 2026   | Online |
 | Developing Sustainable Earth Science Applications                              | NASA's Applied Remote Sensing Trainings (ARSET) Program                             | Apr 2026   | Online |
 | Hyperspectral Data for Land and Coastal Systems                             | NASA's Applied Remote Sensing Trainings (ARSET) Program                                 | Mar 2026   | Online |
 | Fundamentals of Remote Sensing                             | NASA's Applied Remote Sensing Trainings (ARSET) Program                                 | Feb 2026   | Online |
