@@ -5,6 +5,7 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 ---
 ### 📅 Events (2026)
 - Repeatable AI-Assisted Workflows, Sep 14
+- Physics-Informed Neural Networks for Estimating Irrigation Volume and Recharge from Earth Observations, Sep 2
 - Observing the Earth in Many Colors: Active and Passive Remote Sensing, Sep 10
 - Applying NASA Earth Observations to Hydropower Reservoir Management, Aug 11
 - Accessing NASA Earth Observations for Reservoir Management, Aug 6
@@ -42,15 +43,13 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 - **TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis**  
   *Date:* Dec 12, 09:00 AM CT  
   *Speaker:* Zhengpeng (Frank) Feng, University of Cambridge  
-  *Webinar ID:* 872 9848 7019 | *Passcode:* 624439  
-
+ 
 - **Physics-Based Artificial Intelligence in Earth Observation**  
   *Date:* Dec 10, 10:00 AM  
   *Speaker:* Prof. Fabio Del Frate, Tor Vergata University of Rome, Italy  
 
 - **ISPRS WG III/3 (Active Microwave Remote Sensing) Webinar Series**  
   *Date:* Dec 10, 06:00 AM CT  
-  *Webinar ID:* 831 7530 7403 | *Passcode:* 526285  
 
 - **HPRC Shortcourse - ACES: Intro to the Grace Hopper Superchip**  
   *Date:* Dec 5, 10:00 AM–12:30 PM CST  
