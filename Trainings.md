@@ -114,22 +114,23 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 ### 🔍 Recent/Upcoming Technical Training 
 
 #### 2026
-- WaterSoftHack July 20–July 31 Virtual, 2026
-- CUAHSI Virtual Open House, June 24, 2026
-- UCGIS 2026 Symposium — AI Everywhere, University of Maryland, College Park, June 15–18, 2026
-- High Performance and Disruptive Computing in Remote Sensing School June 9-12, 2026
-- Introduction to Scientific Machine Learning, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications, April 10, 2026
+- CyberWater2, Sep 21-25
+- WaterSoftHack, July 20–July 31 Virtual
+- CUAHSI Virtual Open House, June 24
+- UCGIS 2026 Symposium — AI Everywhere, University of Maryland, College Park, June 15–18
+- High Performance and Disruptive Computing in Remote Sensing School June 9-12
+- Introduction to Scientific Machine Learning, University of Illinois Urbana-Champaign, National Center for Supercomputing Applications, April 10
 - ISPRS WG III/4 with the technical support of the ISPRS Student Consortium
-- Developing Sustainable Earth Science Applications, NASA ARSET Training Courses, April, 2026
-- Monitoring Water Quality in Lakes and Coastal Regions Using STREAM NASA ARSET Training Courses, March, 2026
-- Hyperspectral Data for Land and Coastal Systems NASA ARSET Training Courses, March, 2026
-- Fundamentals of Remote Sensing NASA ARSET Training Courses, March, 2026
-- ByteBoost 2.0: Supercharge Your Research with Cutting-Edge Testbeds, Stony Brook University, March 25, Apr 8 & 22, 2026
-- Building a Data Pipeline with AI (a Claude Code Demo), NAIRR Pilot Webinar Marech 26, 2026
-- IOI Ocean Academy (Black & Mediterranean Seas), Sustainable Coastal Tourism Development and Ocean Governance, 24 February - 17 March 2026
+- Developing Sustainable Earth Science Applications, NASA ARSET Training Courses, April
+- Monitoring Water Quality in Lakes and Coastal Regions Using STREAM NASA ARSET Training Courses, March
+- Hyperspectral Data for Land and Coastal Systems NASA ARSET Training Courses, March
+- Fundamentals of Remote Sensing NASA ARSET Training Courses, March
+- ByteBoost 2.0: Supercharge Your Research with Cutting-Edge Testbeds, Stony Brook University, March 25, Apr 8 & 22
+- Building a Data Pipeline with AI (a Claude Code Demo), NAIRR Pilot Webinar March 26
+- IOI Ocean Academy (Black & Mediterranean Seas), Sustainable Coastal Tourism Development and Ocean Governance, 24 February - 17 March 
 - EUNICoast Online Seminars "Bridging R&I among Coastal Regions Feb 10
-- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24, 2026
-- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3, 2026
+- HPRC Shortcourse - ACES: Python for Programmers New to Python via Zoom Videoconference, Tuesday, February 24
+- HPRC Shortcourse - ACES: Python for New Programmers via Zoom Videoconference, Tuesday, February 3
 
 
 #### 2025
