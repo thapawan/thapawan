@@ -9,6 +9,7 @@
 | 2026 | Global observations reveal patterns in soil degradation across agricultural landscapes | *Science*, (Q1, IF: 44.7) | Under Review |
 | 2026 | Informed Sustainable Tourism Planning Using Hierarchical Geographic Information System Multi Criteria Decision Analysis and Google Earth Engine | *International Journal of Geoheritage and Parks*, (Q1, IF: 4.2) | Under Review |
 | 2026 | Decoupled Adjustment of Meander Planform Geometry and Migration Rate Under Dam Regulation | *Progress in Physical Geography: Earth and Environment*, ( Q1, IF: 3.5) | Under Review |
+| 2026 | A GeoAI Framework for Community-Based Landslide Early Warning Using Remote Sensing, Machine Learning, and Explainable AI | *Frontiers in Earth Science*, (Invited Q1, IF: 2.3) | Under Review |
 | 2026 | A Critical Review of Ethics and Explainability in UAV-Hyperspectral Sensing | *Transactions in GIS*, (Invited Q1, IF: 4.8) | Under Review |
 | 2026 | Rapid Flood Inundation Mapping During the 2019 Mississippi River Flood Using Sentinel-1 SAR and Google Earth Engine.  | *Remote Sensing*, special Issue: The 6th International Electronic Conference on Remote Sensing (ECRS 2026) (Under Review, Invited Q1, IF: 4.1) | Under Review |
 | 2026 | Hyperspectral UAV Imaging in GIScience: Methods, Operational Workflows, and Future Directions | *International Journal of Remote Sensing*, (Under Review, Q2, IF: 2.8) | Under Review |
