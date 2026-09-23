@@ -1,4 +1,4 @@
-# Public Media Outreach
+# Media Outreach
 
 ## Interviews
 
