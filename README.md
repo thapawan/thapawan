@@ -45,7 +45,7 @@ I'm focusing on the intersection of Geographic Information Science (GIS), Remote
 - **[MMATCWE](https://github.com/thapawan/raster_medial_axis):** Medial Axis Transform Python package.
 - **[LPCC](https://github.com/thapawan/LongitudinalProfileConstrainedCross-sections):** Python tool that extracts elevation cross-sections.
 - **[CSEV](https://github.com/thapawan/CrossSectionsExtractionVisualization):** Tool automates extracting cross-sections with their horizontal distance and elevation.
-- **[BIC](https://github.com/thapawan/bayesImageCause):** R package for Bayesian Causal Inference with Image Data. .
+- **[BIC](https://github.com/thapawan/bayesImageCause):** R package for Bayesian Causal Inference with Image Data.
 - **[patchseg](https://github.com/thapawan/patchseg-Lightweight-patch-based-segmentation-for-geoscience-images):** Python module for segmenting grains, clasts, and particles in large images.
 
 ## 🌐 Applications
