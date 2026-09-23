@@ -74,3 +74,4 @@ I'm focusing on the intersection of Geographic Information Science (GIS), Remote
 [![Blogs](https://img.shields.io/badge/Blogs-📑-darkblue)](https://www.blogger.com/profile/00763349998740801159)
 [![Reviewer](https://img.shields.io/badge/Reviewers-🗣️-blue)](https://github.com/thapawan/thapawan/blob/main/Reviewer.md)
 [![Training](https://img.shields.io/badge/Trainings-🧠-lightgrey)](https://github.com/thapawan/thapawan/blob/main/Trainings.md)
+[![Media Outreach](https://img.shields.io/badge/Media_Outreach-📣-orange)](https://github.com/thapawan/thapawan/blob/main/Media%20Outreach.md)
