@@ -115,6 +115,7 @@ Welcome to my curated list of trainings, workshops, and special activities organ
 
 #### 2026
 - CyberWater2, Sep 21-25
+- ENVI Unlock Automated SAR Processing with AI, Sep 24
 - WaterSoftHack, July 20–July 31 Virtual
 - CUAHSI Virtual Open House, June 24
 - UCGIS 2026 Symposium — AI Everywhere, University of Maryland, College Park, June 15–18
