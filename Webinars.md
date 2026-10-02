@@ -4,6 +4,7 @@ Welcome to my curated list of webinars focused on Earth Observation, AI, GIS, an
 
 ---
 ### 📅 Events (2026)
+- Modeling Spatio-temporal Extremes via Conditional Variational Autoencoders, Sep 25
 - Repeatable AI-Assisted Workflows, Sep 14
 - Physics-Informed Neural Networks for Estimating Irrigation Volume and Recharge from Earth Observations, Sep 2
 - Observing the Earth in Many Colors: Active and Passive Remote Sensing, Sep 10
