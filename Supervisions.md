@@ -63,8 +63,10 @@ Welcome to my academic supervision portfolio! Below is a summary of graduate the
 
 ---
 
-
 # 🔬 **Research & Professional Projects**
+### **Community-Engaged Research Projects**
+*   **2026 — Thriving Earth Exchange, American Geophysical Union (AGU):**  
+      Invited to collaborate on a community science project in Portie Town, Louisiana, focused on soil sampling, environmental monitoring, and nature-based soil remediation approaches in partnership with local     stakeholders and community leaders.
 
 ### **High-Performance Computing & GeoAI Projects**
 *   **2026 — ByteBoost 2.0 Cybertraining Program (NSF-Funded):**  
