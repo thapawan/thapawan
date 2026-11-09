@@ -28,8 +28,8 @@
 | 21    | Journal of Contingencies and Crisis Management                                                | 1                 | Reviewer                          |
 | 22   | International Conference on Artificial Intelligence, Computer, Data Sciences, and Applications (ACDSA 2027)                                              | 1                 | Reviewer                          |
 | 23   | Frontiers In Forests And Global Change                                             | 1                 | Reviewer                          |
+| 24   | Earth Surface Processes and Landforms                                            | 1                 | Reviewer                          |
 
- 
 </details>
 
 ***
